@@ -1,4 +1,4 @@
-[
+export default [
     {
         "number": "1",
         "person": "Rima Azar",

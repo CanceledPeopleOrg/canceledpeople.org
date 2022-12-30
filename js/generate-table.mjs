@@ -1,4 +1,4 @@
-import cancelations from './database.json' assert {type: 'json'};
+import cancelations from './database.js';
 const headers = [
   /*id=*/"",
   "Name",
