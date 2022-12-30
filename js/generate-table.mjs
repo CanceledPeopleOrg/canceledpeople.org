@@ -30,6 +30,19 @@ for (const cancelation of cancelations) {
     const td = document.createElement('td');
     td.innerHTML = value;
 
+    if (property == 'number') {
+      const button = document.createElement('button');
+      button.className = 'mdl-button mdl-js-button mdl-button--fab mdl-button--mini-fab mdl-js-ripple-effect';
+      td.id = `row-${value}`;
+      button.addEventListener('click', copyLink);
+      const i = button.appendChild(document.createElement('i'));
+      i.className = 'material-icons';
+      i.textContent = 'link';
+
+      td.innerHTML = '';
+      td.append(button);
+    }
+
     // Get an SVG image of the country's flag, given the country code.
     if (property == 'country') {
       const img = document.createElement('img');
@@ -52,3 +65,16 @@ for (const cancelation of cancelations) {
 }
 
 section.append(table);
+
+function copyLink(e) {
+  console.log(e.target.parentNode.id);
+  const url = new URL(location.href);
+  // `e.target` is the inner <span>. We have to climb up to the <button> and
+  // finally the <td> to get the right navigable ID.
+  url.hash = `#${e.target.parentNode.parentNode.id}`;
+  navigator.clipboard.writeText(url);
+
+  const toast = document.querySelector('#copy-link-toast');
+  const data = {message: 'Link copied to clipboard'};
+  toast.MaterialSnackbar.showSnackbar(data);
+}

@@ -24,6 +24,14 @@
   </main>
 </div>
 
+<!-- The copy link toast is defined before the JavaScript below, since the
+JavaScript below references the toast. -->
+<div id="copy-link-toast" class="mdl-js-snackbar mdl-snackbar">
+  <div class="mdl-snackbar__text"></div>
+  <!-- This must exist, even though it is not used -->
+  <button class="mdl-snackbar__action" type="button"></button>
+</div>
+
 <script type=module src=js/generate-table.mjs></script>
 
 <footer class="mdl-mini-footer">
