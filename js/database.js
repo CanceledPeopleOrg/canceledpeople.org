@@ -107,7 +107,7 @@ export default [
         "description": "Sherwood preached in front of a train station that marriage should be between one man and one woman. Police officers surrounded Sherwood, took away his Bible and pulled him off the streets. He was detained, questioned about his views on sexual morality and held overnight.&nbsp;<a href=\"https://www.spiked-online.com/2021/04/30/why-are-the-police-handcuffing-street-preachers/\" id=\"sourceLink\">Source</a>",
         "result": "Arrested",
         "date": "4/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "12",
@@ -287,7 +287,7 @@ export default [
         "description": "As part of a curriculum about blasphemy, a teacher showed the infamous Charlie Hebdo cartoon of the Prophet Muhammad. Complaints from students triggered protests outside the school and he was suspended. The school apologized ‘unequivocally’ for the teacher’s lesson plan. The teacher went into hiding with his family in fear for his life.&nbsp;<a href=\"https://www.bbc.com/news/uk-england-leeds-56587709\" id=\"sourceLink\">Source</a>",
         "result": "Suspended",
         "date": "3/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "30",
@@ -327,7 +327,7 @@ export default [
         "description": "Robinson complained that the COVID-19 relief package included $500 million worth of military aid to Israel, sarcastically tweeting that ‘the US Congress is not actually permitted to authorize any new spending unless a portion of it is directed toward buying weapons for Israel’. The US editor-in-chief of the Guardian called Robinson’s tweet ‘anti-Semitic’ and ‘fake news’.&nbsp;<a href=\"https://reason.com/2021/02/10/nathan-robinson-the-guardian-israel-tweet-joke-column/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "34",
@@ -417,7 +417,7 @@ export default [
         "description": "Samant was asked to resign over social media posts that were labelled anti-Semitic, transphobic and racist. One Instagram caption contained a pun about the Holocaust alongside a photo of Samant at the memorial in Berlin. In another post, Samant separated the categories 'women, transwomen and men', which is considered by some to be transphobic.&nbsp;<a href=\"https://www.indiatimes.com/news/india/why-rashmi-samant-the-first-indian-president-of-oxford-students-union-was-forced-to-resign-536332.html\" id=\"sourceLink\">Source</a>",
         "result": "Forced Resignation",
         "date": "3/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "43",
@@ -457,7 +457,7 @@ export default [
         "description": "Murray’s organization issued a statement following Harry and Meghan's interview with Oprah Winfrey in which it said it was ‘not acceptable’ for the couple to make claims of racism in the press ‘without supporting evidence’. Murray went on to say that the UK press is not racist and that it has a ‘proud record of calling out racism’.&nbsp;<a href=\"https://news.sky.com/story/society-of-editors-executive-director-ian-murray-resigns-after-defending-uk-press-over-meghan-row-12242242\" id=\"sourceLink\">Source</a>",
         "result": "Forced resignation",
         "date": "3/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "47",
@@ -607,7 +607,7 @@ export default [
         "description": "Knowland uploaded a video on the school intranet for a course called ‘The Patriarchy Paradox’ that proposed ‘a different point of view to the current radical feminist orthodoxy’. The course posited that masculine qualities like strength, courage &amp; tenacity can be positive and that genders differ psychologically. Knowland refused the head master’s requests to remove the video.&nbsp;<a href=\"https://www.dailymail.co.uk/news/article-9238951/Teacher-sacked-Eton-anti-feminist-video-banned-teaching-life.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "62",
@@ -617,7 +617,7 @@ export default [
         "description": "Stone made an online post requesting that his publication show ‘a little more respect for the gender-critical position in the trans rights debate’, calling for a ‘more constructive discussion and less name-calling’. RockPaperShotgun fired Stone on the basis that this comment failed the organization’s goals of inclusivity.&nbsp;<a href=\"https://twitter.com/rockpapershot/status/1326211540689821698\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "11/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "63",
@@ -627,7 +627,7 @@ export default [
         "description": "Halliday used the hashtag #WontBeErased in a humorous tweet about preserving classic PC games. Because #WontBeErased is normally associated with Transgender activism, Halliday’s comedic use of the hastag was interpreted as being transphobic and bigoted by many on Twitter. Halliday was subsequently fired by GOG.com, an online retailer of computer games.&nbsp;<a href=\"https://boundingintocomics.com/2018/12/10/the-daily-dot-smears-former-gog-community-manager-sean-halliday/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "12/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "64",
@@ -637,7 +637,7 @@ export default [
         "description": "In 2017 Lewis wrote an op-ed for The Sunday Times called ‘A man can’t just say he has turned into a woman,’ in which she was critical of new legislation being proposed in the UK to make transitioning easier. After discovering this, Ubisoft replaced all audio from the game ‘Watch Dogs: Legion’ featuring Lewis’ voice.&nbsp;<a href=\"https://kotaku.com/ubisoft-to-remove-controversial-host-from-watch-dogs-le-1845596398\" id=\"sourceLink\">Source</a>",
         "result": "Removed from game",
         "date": "11/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "65",
@@ -1137,7 +1137,7 @@ export default [
         "description": "Accused of transphobia for her comments on feminism and her allegiance to ‘A Woman’s Place’ (a women’s rights organization that supports women-only spaces). Specifically, she said ‘transwomen should be allowed to call themselves transwomen’ but that in certain circumstances ‘we do need provision that differentiates on the basis of sex’.&nbsp;<a href=\"https://www.bbc.com/news/uk-england-oxfordshire-51737206\" id=\"sourceLink\">Source</a>",
         "result": "Deplatformed by Oxford International Women's Festival",
         "date": "3/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "115",
@@ -1197,7 +1197,7 @@ export default [
         "description": "In an interview with the New Statesman, Scruton described Islamophobia as a ‘propaganda word invented by the Muslim Brotherhood in order to stop discussion of a major issue’ and said all Chinese people are ‘replicas’ of one another. It later emerged that these quotes were taken out of context to a degree that they weren’t accurate depictions of what Scruton actually said and meant.&nbsp;<a href=\"https://www.independent.co.uk/news/uk/politics/roger-scruton-sacked-job-government-theresa-may-boris-johnson-a9017301.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired, Reinstated",
         "date": "7/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "121",
@@ -1237,7 +1237,7 @@ export default [
         "description": "As chair of the Advisory Council on the Misuse of Drugs, Nutt claimed in a paper that alcohol and tobacco were more harmful than many illegal drugs, including LSD, ecstasy and cannabis. In comparison to the harm caused by other substances, Nutt wrote ‘Cannabis, LSD and ecstasy, while harmful, are ranked lower at 11, 14 and 18 respectively’.&nbsp;<a href=\"https://www.theguardian.com/politics/2009/oct/30/drugs-adviser-david-nutt-sacked\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "10/09",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "125",
@@ -1267,7 +1267,7 @@ export default [
         "description": "Trained his girlfriend’s pug dog to perform a Hilter salute as a joke. Was fined for the offense under Britain’s Communications Act.&nbsp;<a href=\"https://www.independent.co.uk/news/uk/crime/count-dankula-nazi-pug-video-appeal-refused-youtube-court-case-gross-offence-a8483201.html\" id=\"sourceLink\">Source</a>",
         "result": "Fined and imprisoned for not paying fine",
         "date": "8/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "128",
@@ -1367,7 +1367,7 @@ export default [
         "description": "At a meeting about women in science, Hunt said: ‘Let me tell you about my trouble with girls. Three things happen when they are in the lab. You fall in love with them, they fall in love with you, and when you criticise them, they cry’. Later apologized for remarks and was defended by several female scientists.&nbsp;<a href=\"https://www.theguardian.com/science/2015/jun/13/tim-hunt-hung-out-to-dry-interview-mary-collins\n\" id=\"sourceLink\">Source</a>",
         "result": "Forced Resignations (multiple)",
         "date": "6/15",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "138",
@@ -1457,7 +1457,7 @@ export default [
         "description": "Tweeted a picture of a black and white photo of a well-dressed couple next to a suited chimpanzee with the caption: ‘Royal baby leaves hospital’. Later apologized: ‘it was supposed to be joke about royals vs circus animals in posh clothes but interpreted as about monkeys &amp; race, so rightly deleted’.&nbsp;<a href=\"https://www.theguardian.com/media/2019/may/09/danny-baker-apologises-for-chimp-tweet-about-royal-baby\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "5/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "147",
@@ -1547,7 +1547,7 @@ export default [
         "description": "Birbalsingh, a teacher, called Britain's education system ‘fundamentally broken’ and ‘blinded by leftist ideology’ in Conservative party conference. She was suspended from her school by her executive headteacher and subsequently resigned after being asked to comply with conditions that she did not feel able to comply with.&nbsp;<a href=\"https://www.telegraph.co.uk/education/educationnews/8068427/Teacher-loses-job-after-exposing-failures-in-our-schools.html\" id=\"sourceLink\">Source</a>",
         "result": "Forced Suspension, Resignation",
         "date": "10/10",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "156",
@@ -1567,7 +1567,7 @@ export default [
         "description": "Was photographed next to a person who attended one of his talks who was wearing a shirt that read ‘I'm a proud Islamophobe’ written on it.&nbsp;<a href=\"https://www.bbc.com/news/uk-england-cambridgeshire-47694921\" id=\"sourceLink\">Source</a>",
         "result": "Visiting fellowship offer from Cambridge rescinded",
         "date": "3/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "158",
@@ -1587,7 +1587,7 @@ export default [
         "description": "During a private conversation with Dr Janet Bonar, Lamonby remarked that Jewish people are among the smartest in the world. He then asked Dr Bonar if she was Jewish, who then accused Lamonby of racism. The University determined that Lamonby ‘created an offensive environment for Dr Bonar’.&nbsp;<a href=\"https://www.dailymail.co.uk/news/article-8560707/Lecturer-sacked-praising-Jewish-scientists-German-engineers-slams-woke-brigade.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "160",
@@ -1607,7 +1607,7 @@ export default [
         "description": "Said slavery was not genocide because there are 'so many damn blacks' still around. In his apology he said 'it was intended to emphasise, in hindsight with awful clumsiness, the numbers who survived the horrors of the slave trade'.&nbsp;<a href=\"https://www.dailymail.co.uk/news/article-8495005/David-Starkey-apologises-damn-blacks-comment.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "162",
@@ -1637,7 +1637,7 @@ export default [
         "description": "Shared a Billy Connolly sketch on his personal Facebook page. The sketch states that 'religion is over' and says every time a suicide bomb goes off 'the world is a wanker short'. A colleague complained that the sketch was anti-Islamic.&nbsp;<a href=\"https://www.cornwalllive.com/news/uk-world-news/asda-man-sacked-sharing-billy-3013121\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "165",
@@ -1697,7 +1697,7 @@ export default [
         "description": "Accused of publishing 'offensive' tweets questioning government proposals to allow people to self-identify as the opposite sex.&nbsp;<a href=\"https://www.bbc.com/news/uk-50858919\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "12/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "171",
@@ -1747,7 +1747,7 @@ export default [
         "description": "Questioned the concept of white privilege. Communications commission said comments 'could be deemed insensitive, but did not constitute a code breach.'&nbsp;<a href=\"https://www.bbc.com/news/world-europe-isle-of-man-53171352\" id=\"sourceLink\">Source</a>",
         "result": "Suspended, Reinstated",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "176",
@@ -1807,7 +1807,7 @@ export default [
         "description": "Wrote paper titled 'Net opposition to immigrants of different nationalities correlates strongly with their arrest rates in the UK'. Open letter circulated accusing Carl of 'racist pseudoscience'.&nbsp;<a href=\"https://www.spectator.co.uk/article/how-noah-carl-is-fighting-back-against-cambridge\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "182",
@@ -1827,7 +1827,7 @@ export default [
         "description": "described BLM as 'post-modern, neo-Marxists' who were 'call[ing] for the destruction of Western Democracy and our way of life'.&nbsp;<a href=\"https://thecritic.co.uk/charity-boss-fired-after-criticising-black-lives-matter/\" id=\"sourceLink\">Source</a>",
         "result": "Fired, then Reinstated",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "184",
@@ -1867,7 +1867,7 @@ export default [
         "description": "Liked tweets that said: 'all lives matter', some that suggest a scientific basis for gender, and others that express support for ending mass immigration.&nbsp;<a href=\"https://www.spectator.co.uk/article/were-facing-a-tsunami-of-censorship\" id=\"sourceLink\">Source</a>",
         "result": "Investigated",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "188",
@@ -1917,7 +1917,7 @@ export default [
         "description": "Expressed disapproval about the Black Lives Matter protest in Cardiff, Wales.&nbsp;<a href=\"https://www.bbc.com/news/uk-52940249\" id=\"sourceLink\">Source</a>",
         "result": "Lost literary judging role",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "193",
@@ -1977,7 +1977,7 @@ export default [
         "description": "Had 'White Lives Matter Burnley' banner flown over UK soccer game.'&nbsp;<a href=\"https://www.dailymail.co.uk/news/article-8454627/Burnley-fan-White-Lives-Matter-banner-reveals-60-people-organised-stunt.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "199",
@@ -2027,7 +2027,7 @@ export default [
         "description": "Wrote 'I stand with JK Rowling' in twitter handle.&nbsp;<a href=\"https://www.dailymail.co.uk/news/article-8490821/Best-selling-childrens-author-sacked-posting-hashtag-stand-JK-Rowling-Twitter.html\" id=\"sourceLink\">Source</a>",
         "result": "Dropped by Publisher",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E\">"
+        "country": "gb",
     },
     {
         "number": "204",
