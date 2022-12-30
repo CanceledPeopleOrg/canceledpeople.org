@@ -7,7 +7,7 @@ export default [
         "description": "Azar maintained a personal blog that was critical of several tenants of Critical Race Theory. In one post she said ‘NB is NOT racist. Canada is NOT racist. We do not have 'systemic' racism or 'systemic' discrimination. We just have systemic naivety’. Following several student complaints Azar was suspended without pay.&nbsp;<a href=\"https://www.cbc.ca/news/canada/new-brunswick/mount-allison-suspension-professor-1.6016047\" id=\"sourceLink\">Source</a>",
         "result": "Suspended without pay",
         "date": "5/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 500'%3E %3Crect width='1000' height='500' fill='%23f00'/%3E %3Crect width='500' height='500' fill='%23fff' x='250'/%3E %3Cpath fill='%23ff0000' d='m 499.99228,46.875 -34.11312,63.62529 c -3.87086,6.91501 -10.80627,6.27363 -17.74169,2.41138 l -24.69699,-12.78858 18.40705,97.72711 c 3.87086,17.85419 -8.54859,17.85419 -14.67765,10.13435 l -43.10105,-48.25099 -6.99738,24.503 c -0.80692,3.21777 -4.35481,6.59744 -9.67748,5.79261 l -54.50177,-11.45912 14.31524,52.04475 c 3.06451,11.58054 5.4549,16.37528 -3.09375,19.42959 l -19.42619,9.13025 93.82127,76.20838 c 3.7135,2.88151 5.58971,8.067 4.26768,12.7621 l -8.21136,26.94707 c 32.30405,-3.72371 61.24898,-9.32594 93.56939,-12.77619 2.85323,-0.30459 7.62988,4.40408 7.61029,7.71058 l -4.28024,98.72342 15.70639,0 -2.47237,-98.5117 c -0.0197,-3.3065 4.31372,-8.22689 7.16695,-7.9223 32.32041,3.45026 61.26538,9.05248 93.56942,12.77619 l -8.21134,-26.94707 c -1.32203,-4.6951 0.55417,-9.88059 4.26767,-12.7621 l 93.82125,-76.20838 -19.42617,-9.13025 c -8.54867,-3.05431 -6.15828,-7.84905 -3.09377,-19.42959 l 14.31527,-52.04475 -54.5018,11.45912 c -5.32267,0.80483 -8.87056,-2.57484 -9.6775,-5.79261 l -6.99737,-24.503 -43.10103,48.25099 c -6.12908,7.71984 -18.54854,7.71984 -14.67768,-10.13435 l 18.40702,-97.72711 -24.69694,12.78858 c -6.93559,3.86225 -13.87083,4.50363 -17.7417,-2.41138'/%3E %3C/svg%3E\">"
+        "country": "ca"
     },
     {
         "number": "2",
@@ -17,7 +17,7 @@ export default [
         "description": "In a Tweet Yan claimed to have scientific evidence that the Chinese government was involved in manufacturing COVID-19&nbsp;<a href=\"https://www.newsweek.com/twitter-suspends-dr-li-meng-yan-wuhan-lab-coronavirus-covid19-1532193\" id=\"sourceLink\">Source</a>",
         "result": "Twitter account suspended",
         "date": "9/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "3",
@@ -27,7 +27,7 @@ export default [
         "description": "Cheney made public statements critical of Donald Trump’s continued effort to convince Americans that the election was stolen from him. She also accused him of provoking the January 6, 2021 attack on the Capitol. House Republicans voted to remove Cheney as conference chair, the third-highest-ranking position in the House.&nbsp;<a href=\"https://www.npr.org/2021/05/12/995072539/gop-poised-to-oust-cheney-from-leadership-over-her-criticism-of-trump\" id=\"sourceLink\">Source</a>",
         "result": "Removed from leadership position",
         "date": "5/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "4",
@@ -37,7 +37,7 @@ export default [
         "description": "Deputy Silvester posted a TikTok video criticizing LeBron James after he doxxed and threatened the officer involved in the shooting of Ma'Khia Bryant. In the video Silvester asks James: ‘So you don't care if a black person kills another black person but you do care if a white cop kills a black person even if he's doing it to save the life of another black person?&nbsp;<a href=\"https://thepostmillennial.com/police-officer-suspended-over-viral-tiktok-video-hilariously-mocking-lebron-james\" id=\"sourceLink\">Source</a>",
         "result": "Suspended without pay",
         "date": "4/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "5",
@@ -47,7 +47,7 @@ export default [
         "description": "Flynn raised concerns about his daughter’s curriculum and the use of Black Lives Matter in the classroom to the school’s principal and school board. Two months later he was fired from his coaching position. School administrators cited Flynn’s ‘significant philosophical differences with the direction, goals, and values of the school district’ in their decision.&nbsp;<a href=\"https://www.bostonherald.com/2021/02/18/dedham-school-officials-sued-over-firing-football-coach/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "6",
@@ -57,7 +57,7 @@ export default [
         "description": "During a podcast episode produced on the JAMA Network, deputy editor Ed Livingston said that structural racism is not a problem in medicine. The remarks resulted in backlash, with a group of doctors initiating a petition asking for Bauchner to be held accountable. Bauchner was put on leave pending the results of an investigation.&nbsp;<a href=\"https://thehill.com/homenews/media/545110-top-medical-journal-editor-suspended-over-podcast-on-racism-in-health-care\" id=\"sourceLink\">Source</a>",
         "result": "Suspended",
         "date": "3/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "7",
@@ -67,7 +67,7 @@ export default [
         "description": "Sethi posted ‘Forget #BlackLivesMatter; more like #AllLivesMatter’ on her Facebook account following the shooting deaths of five police officers during a BLM protest in Dallas. The post generated outrage and sparked calls for her resignation. Sethi refused to resign and hoped instead to ‘create the possibility of a culture rooted in open discussion’ but was ultimately suspended for 50 days.&nbsp;<a href=\"https://www.thefire.org/following-alllivesmatter-post-university-of-houston-student-leader-punished-by-student-government/\" id=\"sourceLink\">Source</a>",
         "result": "Suspended",
         "date": "8/16",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "8",
@@ -77,7 +77,7 @@ export default [
         "description": "During a racially segregated diversity training session required by her employer, Parrett read a statement critical of what she called ‘capital-A anti-racist pedagogy’. Following her statement, Parrett was put on paid administrative leave for unspecified ‘allegations of a serious offense’. The school also launched a 9 month formal investigation into Parrett’s behavior.&nbsp;<a href=\"https://reason.com/2021/04/05/a-professor-pushed-back-against-white-fragility-training-the-college-investigated-her-for-9-months/\" id=\"sourceLink\">Source</a>",
         "result": "Put on leave, investigated, reprimanded",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "9",
@@ -87,7 +87,7 @@ export default [
         "description": "Drake spoke out against an Arkansas law that allows landlords to file criminal charges rather than civil complaints against tenants for falling behind on rent. Drake told ProPublica, ‘I hate that law. It’s unconstitutional… It constitutes cruel and unusual punishment’. The county declined to comment on Drake’s dismissal.&nbsp;<a href=\"https://www.propublica.org/article/a-state-prosecutor-was-fired-for-speaking-out-against-jail-time-for-people-who-fall-behind-on-rent\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "10/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "10",
@@ -97,7 +97,7 @@ export default [
         "description": "After the CDC decided to pause the use of the Johnson &amp; Johnson COVID-19 vaccine, Kulldorff expressed his dissenting professional opinion in an op-ed in The Hill. Two days later, the CDC removed Kulldorff from a working group over ‘recent public statements you’ve made regarding policy opinions’. Four days after that, the CDC resumed the use of the J&amp;J vaccine, in line with Kulldorff’s opinion.&nbsp;<a href=\"https://thefederalist.com/2021/04/28/cdc-punishes-superstar-scientist-for-covid-vaccine-recommendation-the-cdc-followed-4-days-later/\" id=\"sourceLink\">Source</a>",
         "result": "Removed from COVID-19 working group",
         "date": "4/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "11",
@@ -117,7 +117,7 @@ export default [
         "description": "Show host Ron Lederman was fired in March 2021 for comparing toaster settings to the color of Black women’s skin tones. The racist comments were publicly condemned by ESPN, several public officials and Halle Berry. A few weeks later Cumulus ‘decided to terminate the whole morning show in addition to the Program Director’.&nbsp;<a href=\"https://www.syracuse.com/entertainment/2021/04/3-more-fired-at-buffalo-radio-station-after-racist-comments-on-air.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "4/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "13",
@@ -137,7 +137,7 @@ export default [
         "description": "In 2010 Norris organized an event called ‘Everybody Draw Mohammed Day’ to protest against the censorship of a South Park episode which included a depiction of Mohammed. Norris made a poster for the event in which several inanimate objects claimed to be the likeness of Mohammed. Following several credible death threats the FBI insisted that Norris go into hiding &amp; change her name.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Everybody_Draw_Mohammed_Day#Threat_on_Molly_Norris's_life,_forced_into_hiding\" id=\"sourceLink\">Source</a>",
         "result": "Death threats, forced into hiding",
         "date": "7/10",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "15",
@@ -157,7 +157,7 @@ export default [
         "description": "Taylor led a class discussion on whether the gains of global trade justify its costs (including slavery, abuse and disease). A few days later the school’s ‘Radical Social Justice Warriors’ student group accused him of asking students to justify slavery and called him ‘a threat to the safety of our BIPOC community’, demanding that the school administration take action against him.&nbsp;<a href=\"https://www.thecollegefix.com/professor-found-guilty-of-harassment-for-asking-students-if-global-trade-has-been-good-overall/\" id=\"sourceLink\">Source</a>",
         "result": "Removed from Teaching",
         "date": "10/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "17",
@@ -167,7 +167,7 @@ export default [
         "description": "As part of the Fox decision room, Stirewalt helped announce Biden as the winner of Arizona in the 2020 election. When the decision angered much of the Fox viewership and Trump himself, he defended it as accurate. Several months later, he was laid off along with 20 other staffers in what anonymous sources claimed was an ‘overreaction’ and a ‘purge’.&nbsp;<a href=\"https://www.washingtonpost.com/lifestyle/media/fox-news-stirewalt-sammon-murdoch-arizona/2021/01/19/a54e9f72-5a8f-11eb-a976-bad6431e03e2_story.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "1/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "18",
@@ -177,7 +177,7 @@ export default [
         "description": "Bahia refused to sign an oath vowing that she 'does not' and 'will not' engage in a boycott of Israel or 'otherwise take any action that is intended to inflict economic harm [on Israel]'. The clause was entered into Amawi's contract after Texas enacted a law in May 2017 prohibiting state agencies from signing contracts with companies that boycott Israel.&nbsp;<a href=\"https://www.middleeastmonitor.com/20181218-texas-teacher-fired-for-refusing-to-sign-anti-bds-oath/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "12/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "19",
@@ -187,7 +187,7 @@ export default [
         "description": "After coming out as a transwoman, was fired from her job as a funeral home director. Her employer explicitly stated that he fired her for wearing women’s clothing. She started a legal case but died before the case was heard by the Supreme Court.&nbsp;<a href=\"https://www.theguardian.com/world/2019/sep/30/there-is-no-protection-case-of-trans-woman-fired-after-coming-out-could-make-history\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "9/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "20",
@@ -197,7 +197,7 @@ export default [
         "description": "Costa and Cunningham publicly criticized Amazon’s working conditions and its efforts to address climate change, organizing thousands of colleagues around these issues. During the pandemic they planned an internal event for warehouse workers to speak about their workplace conditions. Soon after they were fired. The NLRB ruled the firings to be illegal retaliation.&nbsp;<a href=\"https://www.nytimes.com/2021/04/05/technology/amazon-nlrb-activist-workers.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "4/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "21",
@@ -207,7 +207,7 @@ export default [
         "description": "Circulated a college-wide survey that tested how strongly respondents valued academic freedom in different hypothetical scenarios. Some scenarios were drawn from real life Title IX violations that took place at Berea College. Although the survey was approved by administrators, upon circulation it was deemed offensive and a violation of confidentiality.&nbsp;<a href=\"https://www.nas.org/blogs/article/an-open-letter-to-lyle-d-roelofs-president-of-berea-college\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "22",
@@ -227,7 +227,7 @@ export default [
         "description": "Mass was critical of riots and looting in the Seattle area on his personal blog. In one post he compared the destruction in Seattle to Kristallnacht, the ‘Night of Broken Glass’ in 1938, where rioters destroyed Jewish owned stores and buildings. The NPR affiliate fired Mass and claimed that his comments were anti-Semitic and exaggerated the violence of the riots.&nbsp;<a href=\"https://thepostmillennial.com/npr-fires-weatherman-for-comparing-seattle-riots-to-germany-in-1938\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "8/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "24",
@@ -247,7 +247,7 @@ export default [
         "description": "On January 8, 2021 Trump tweeted that his supporters ‘will not be disrespected or treated unfairly in any way, shape or form!’. Shortly after he tweeted: ‘I will not be going to the Inauguration’. Twitter determined that these tweets violate its ‘Glorification of Violence Policy’ and permanently banned Trump, citing the potential to incite criminal acts similar to those that occured on January 6.&nbsp;<a href=\"https://blog.twitter.com/en_us/topics/company/2020/suspension.html\" id=\"sourceLink\">Source</a>",
         "result": "Permanent Twitter Ban",
         "date": "1/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "26",
@@ -277,7 +277,7 @@ export default [
         "description": "Breitbart resurfaced tweets from Dr. Jamie R. Riley that were critical of the police and the American flag. A 2017 tweet said that the flag ‘represents a systemic history of racism for my people’. Another tweet suggested that white people should not have an opinion on racism because they can’t experience it.&nbsp;<a href=\"https://reason.com/2019/09/06/alabama-dean-jamie-riley-resign-breitbart/\" id=\"sourceLink\">Source</a>",
         "result": "Forced Resignation",
         "date": "6/03",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "29",
@@ -297,7 +297,7 @@ export default [
         "description": "Bronson was seen drinking a Pepsi while on the job in his Coke uniform. Bronson had never been disciplined before and had a 'clean record’ when he was fired. The Union spokesman claimed that Bronson was actually dismissed because he promoted his union to non-union workers.&nbsp;<a href=\"https://money.cnn.com/2003/06/13/news/funny/coke_pepsi/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/03",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "31",
@@ -307,7 +307,7 @@ export default [
         "description": "Finkelstein wrote a book called ‘The Holocaust Industry’ which argues that the memory of the Holocaust has been used as an ‘ideological weapon’ to blackmail Europe into turning a blind eye to human rights abuses committed by Israel. Finkelstein was denied tenure and banned from Israel for ten years.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Norman_Finkelstein#Tenure_denial_and_resignation\" id=\"sourceLink\">Source</a>",
         "result": "Denied tenure, banned from Israel",
         "date": "6/07",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "32",
@@ -317,7 +317,7 @@ export default [
         "description": "Several blog posts from the late 90s and early 00s were uncovered in which Uygur made objectifying comments about women. Uyger (also the creator of The Young Turks) apologized, calling the comments ‘really insensitive and ignorant’ but was nevertheless forced to resign from his organization.&nbsp;<a href=\"https://www.huffpost.com/entry/justice-democrats-ousts-cenk-uygur_n_5a3eb4d1e4b025f99e178181\" id=\"sourceLink\">Source</a>",
         "result": "Forced Resignation",
         "date": "12/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "33",
@@ -337,7 +337,7 @@ export default [
         "description": "Rossi wrote a critique of the Grace School’s antiracist training program and published it on Bari Weiss’ Substack page. Rossie argued that the program - which included racially segregated discussions and required teachers to report students who were ‘resistant’ to the material - was damaging to students.&nbsp;<a href=\"https://nypost.com/2021/04/16/nyc-private-school-tells-whistleblowing-teacher-to-stay-home/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "4/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "35",
@@ -347,7 +347,7 @@ export default [
         "description": "Kelly anonymously donated $25 to the legal defense fund of Kyle Rittenhouse through the crowdfunding site GiveSendGo. When the site was hacked the donation was made public along with Kelly’s message to Rittenhouse that read: ‘Thank you for your courage... You’ve done nothing wrong. Every rank and file police officer supports you.’&nbsp;<a href=\"https://slate.com/news-and-politics/2021/04/norfolk-virginia-police-officer-fired-defense-fund-donation-kenosha-shooter-kyle-rittenhouse.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "4/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "36",
@@ -357,7 +357,7 @@ export default [
         "description": "During a school-organized discussion on the subject of microaggressions Bhattacharya questioned the presenter about the definition and validity of the concept of a microaggression. This was interpreted by the administration as ‘aggressive, threatening behavior’. Bhattacharya pushed back against the accusations during a disciplinary hearing and was ultimately suspended.&nbsp;<a href=\"https://reason.com/2021/04/07/microaggressions-uva-student-kieran-bhattacharya-threat/\" id=\"sourceLink\">Source</a>",
         "result": "Suspended",
         "date": "10/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "37",
@@ -367,7 +367,7 @@ export default [
         "description": "Daughter made anti-Semitic social media posts 6-10 years ago that were discovered. Nearly all of his business partners canceled their contracts, landlord terminated the bakery’s lease.&nbsp;<a href=\"https://www.theatlantic.com/ideas/archive/2020/06/stop-firing-innocent/613615/\" id=\"sourceLink\">Source</a>",
         "result": "Lost Business",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "38",
@@ -377,7 +377,7 @@ export default [
         "description": "Following the police shooting of Daunte Wright, City Manager Curt Bogain appeared alongside Mayor Mike Elliot in a press conference. When asked whether the involved officer would be fired, Bogain replied that ‘employees are entitled to due process’. Bogain was fired later that day.&nbsp;<a href=\"https://thehill.com/homenews/state-watch/547827-brooklyn-center-city-manager-fired-following-police-shooting-of-daunte-wright\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "4/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "39",
@@ -387,7 +387,7 @@ export default [
         "description": "A Smith janitor notified security when he saw a person eating in a closed area of a building. The person, a black student named Oumoe Kanoute, accused the janitor of racism on social media. The janitor was put on leave by Smith. An external probe found that no racism had occurred and that the janitor had been following protocol.&nbsp;<a href=\"https://nypost.com/2021/02/25/smith-college-student-was-not-victim-of-racism-probe-finds/\" id=\"sourceLink\">Source</a>",
         "result": "Put on leave",
         "date": "7/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "40",
@@ -397,7 +397,7 @@ export default [
         "description": "Espinal refused to participate in the cross-arm salute featured in the 2018 film ‘Black Panther’ at multiple superintendent meetings. Espinal alleges that she was told by other administrators that she ‘wasn’t black enough’ and that it was ‘inappropriate for her not to participate’.&nbsp;<a href=\"https://atlantablackstar.com/2021/02/24/two-demoted-educators-sue-nyc-department-of-education-claim-pattern-of-discrimination-included-being-ordered-to-make-wakanda-forever-salute/\" id=\"sourceLink\">Source</a>",
         "result": "Fired, then demoted",
         "date": "8/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "41",
@@ -407,7 +407,7 @@ export default [
         "description": "Ames refused to make the salute from the film ‘Black Panther’ at superintendent meetings. At a diversity training session Ames discussed her grandparents’ experience during the Holocaust. Ames was told, ‘That is not about being Jewish! It’s about black and brown boys of color only’.&nbsp;<a href=\"https://atlantablackstar.com/2021/02/24/two-demoted-educators-sue-nyc-department-of-education-claim-pattern-of-discrimination-included-being-ordered-to-make-wakanda-forever-salute/\" id=\"sourceLink\">Source</a>",
         "result": "Fired, then demoted",
         "date": "8/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "42",
@@ -427,7 +427,7 @@ export default [
         "description": "During a podcast with Brown University professor Glenn Loury, Wax spoke on the downsides of affirmative action saying that she ‘had never seen a black student graduate in the top quarter of the class’. Following a petition to have her fired, Penn permanently removed Wax from teaching a mandatory Law class.&nbsp;<a href=\"https://www.pennlive.com/news/2018/03/penn_professor_removed_from_cl.html\" id=\"sourceLink\">Source</a>",
         "result": "Removed from teaching duties",
         "date": "3/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "44",
@@ -437,7 +437,7 @@ export default [
         "description": "Hill gave a speech at the U.N.'s International Day of Solidarity with the Palestinian People calling for countries to boycott and divest from Israel. Specifically, Hill called for ‘international action that will give us what justice requires and that is a free Palestine from the river to the sea’.&nbsp;<a href=\"https://www.nbcnews.com/news/us-news/marc-lamont-hill-fired-cnn-after-his-speech-israel-draws-n942151\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "10/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "45",
@@ -447,7 +447,7 @@ export default [
         "description": "Ten years ago (at age 17) McCammond made offensive social media posts about Asian Americans. McCammond’s tweets included stereotypes about Asian overachievement and ‘swollen eyes’. She apologized for the tweets in 2019.&nbsp;<a href=\"https://www.newsweek.com/what-alexi-mccammond-tweets-said-teen-vogue-editor-resigns-157732736/\" id=\"sourceLink\">Source</a>",
         "result": "Forced resignation",
         "date": "3/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "46",
@@ -467,7 +467,7 @@ export default [
         "description": "See entry on Sandra Sellers. Batson was present when Sellers made controversial comments about a racial performance gap in her classes during an accidentally recorded Zoom conversation. Batson was criticized for not condemning Sellers’ remarks.&nbsp;<a href=\"https://www.washingtonpost.com/local/education/georgetown-university-david-batson/2021/03/12/cb5e0568-837a-11eb-9ca6-54e187ee4939_story.html\" id=\"sourceLink\">Source</a>",
         "result": "Administrative leave, resignation",
         "date": "3/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "48",
@@ -477,7 +477,7 @@ export default [
         "description": "After a recorded Zoom class Sellers mentioned to her colleague that there is a persistent racial gap within her students’ performance, saying: ‘I hate to say this. I end up having this angst every semester that a lot of my lower ones are Blacks, happens almost every semester’. Sellers did not realize that the class was still being recorded.&nbsp;<a href=\"https://www.newsweek.com/sandra-sellers-georgetown-professor-fired-1575769\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "3/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "49",
@@ -487,7 +487,7 @@ export default [
         "description": "Wagner’s novel ‘The Marvel Universe’ contains a 500lb character who playfully describes herself as 'Fat Joan'. The book’s publisher, Counterpoint Press, called Wagner’s use of the word ‘fat’ ‘problematic’ and subsequently dropped the book.&nbsp;<a href=\"https://www.dailymail.co.uk/femail/article-8868017/Author-Bruce-Wagner-claims-editor-said-word-fat-problematic.html\" id=\"sourceLink\">Source</a>",
         "result": "Book dropped by publisher",
         "date": "10/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "50",
@@ -497,7 +497,7 @@ export default [
         "description": "Anderson’s book ‘When Harry Became Sally’ questions the scientific basis behind progressive views on gender identity, including the use of ‘experimental transition treatments’ on children. The best-selling book was removed from Amazon without explanation.&nbsp;<a href=\"https://www.newsweek.com/best-selling-controversial-book-transgender-people-removed-amazon-3-years-after-publication-1571087\" id=\"sourceLink\">Source</a>",
         "result": "Book removed from Amazon",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "51",
@@ -507,7 +507,7 @@ export default [
         "description": "Pack directed and produced the documentary ‘Created Equal: Clarence Thomas in His Own Words’. The film was dropped from the Amazon streaming platform without explanation.&nbsp;<a href=\"https://thefederalist.com/2021/02/26/amazon-strips-clarence-thomas-documentary-from-streaming-service-during-black-history-month/\" id=\"sourceLink\">Source</a>",
         "result": "Film removed from Amazon",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "52",
@@ -517,7 +517,7 @@ export default [
         "description": "Pesca discussed the firing of Donald McNeil (see entry) from the New York Times with colleagues over Slack. Pesca defended McNeil (who was fired for using the N-word in 2019), arguing that ‘expressing the views, not the word, the views he did on that trip are not fire-able’. Slate indefinitely suspended Pesca for making an argument in defense of McNeil.&nbsp;<a href=\"https://www.foxnews.com/media/slate-mike-pesca-suspended-new-york-times-donald-mcneil-n-word\" id=\"sourceLink\">Source</a>",
         "result": "Indefinitely Suspended",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "53",
@@ -527,7 +527,7 @@ export default [
         "description": "Wallen was recorded by a neighbor saying the n-word when arriving home after a night of partying. In the video he tells someone to watch over a guy in his group, saying ‘take care of this pussy-ass n*****’. Wallen apologized, but was dropped by his label, iHeartRadio, and CMT.&nbsp;<a href=\"https://www.npr.org/2021/02/03/963664999/country-star-morgan-wallen-suspended-by-label-dropped-by-radio-cmt-after-using-s\" id=\"sourceLink\">Source</a>",
         "result": "Dropped by label, etc.",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "54",
@@ -547,7 +547,7 @@ export default [
         "description": "Dodd, a star on the Real Housewives of Orange County, tweeted that Covid-19 was ‘God's way of thinning the herd’. She was also seen wearing a ‘drunk wives matter’ hat in a social media post. Dodd apologized but was still fired from her spokesperson role at Positive Beverage.&nbsp;<a href=\"https://www.etonline.com/kelly-dodd-fired-by-positive-beverage-following-controversial-comments-159832\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "1/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "56",
@@ -557,7 +557,7 @@ export default [
         "description": "Harrison did not condemn the behaviour of ‘The Bachelor’ contestant Rachael Kirkconnell who dressed in costume as a Native American at an antebellum themed ball several years ago. In an interview, Harrison defended Kirkconnel against the ‘woke police’, calling for ‘a little grace, a little understanding, a little compassion’.&nbsp;<a href=\"https://www.newser.com/story/302520/the-bachelor-host-apologizes-quits-after-race-controversy.html\" id=\"sourceLink\">Source</a>",
         "result": "Stepped down / Pushed out",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "57",
@@ -567,7 +567,7 @@ export default [
         "description": "Tweeted, ‘If Biden really wanted unity, he'd lynch Mike Pence’. Wilkinson apologized, describing his tweet as ‘sharp sarcasm’ and a lapse in judgment, but was nevertheless fired.&nbsp;<a href=\"https://reason.com/2021/01/22/niskanen-center-will-wilkinson-lynch-mike-pence-tweet-cancel-culture/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "1/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "58",
@@ -587,7 +587,7 @@ export default [
         "description": "In 2016 Groves (then a freshman in high school) sent a three-second Snapchat video to a friend boasting, ‘I can drive, n—.’. A classmate saved the video and released it on social media four years later when Groves had received a spot on the cheer team at the University of Tennessee. Outrage erupted, causing Groves to lose her spot on the team and to withdraw from the University altogether.&nbsp;<a href=\"https://www.post-gazette.com/opinion/ruth-ann-dailey/2021/01/03/Ruth-Ann-Dailey-Is-moral-growth-allowed-anymore/stories/202101030045\" id=\"sourceLink\">Source</a>",
         "result": "Kicked off team",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "60",
@@ -647,7 +647,7 @@ export default [
         "description": "Pielke wrote an article for FiveThirtyEight arguing that increased disaster costs are mainly due to increased wealth rather than climate change. He was accused of ‘climate denial’ even though he never denied the existence of anthropogenic climate change. The article prompted an intense media campaign to have Pielke fired which resulted in his demotion.&nbsp;<a href=\"https://www.wsj.com/articles/my-unhappy-life-as-a-climate-heretic-1480723518\" id=\"sourceLink\">Source</a>",
         "result": "Demoted",
         "date": "3/14",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "66",
@@ -657,7 +657,7 @@ export default [
         "description": "Hartson was an outspoken Trump supporter and editorial director of Center Street, Hachette’s lone Conservative book division. Following the Capitol riots, Hachette fired Hartson for seemingly mundane reasons, despite the fact that her division produced a number of top-selling books.&nbsp;<a href=\"https://www.nytimes.com/2021/02/07/business/media/hachette-book-group-trump.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "67",
@@ -667,7 +667,7 @@ export default [
         "description": "During a 2019 New York Times-sponsored trip for high school students, a student asked about the appropriateness of the use of the N-word in a friend's video. In his response to the student, McNeil used the N-word. Two years later the incident was unearthed, leading to a formal protest by Times staffers. The Times fired McNeil, saying ‘we do not tolerate racist language regardless of intent’.&nbsp;<a href=\"https://www.npr.org/2021/02/06/964618301/two-prominent-new-york-times-journalists-depart-over-past-behavior\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "68",
@@ -677,7 +677,7 @@ export default [
         "description": "On an exam, Kilborn used ‘n___’ and ‘b___’ to reference actual profanities for a hypothetical legal question. The Black Law Students Association wrote a letter demanding Kilborn be demoted for his ‘inexcusable’ reference to the slurs. In response, Kilborn said: ‘if I saw the horrible things said about me in that letter I would become homicidal’. For this comment he was indefinitely suspended.&nbsp;<a href=\"https://www.thecollegefix.com/law-school-suspends-professor-indefinitely-in-fallout-from-exam-question-with-censored-slurs/\" id=\"sourceLink\">Source</a>",
         "result": "Indefinite Suspension",
         "date": "1/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "69",
@@ -687,7 +687,7 @@ export default [
         "description": "Carano made several Conservative-leaning social media posts including one that compared being a Conservative in the US to being Jewish in Nazi Germany. Lucasfilm fired her on the basis that ‘her social media posts denigrating people based on their cultural and religious identities,’ which it called ‘abhorrent and unacceptable’.&nbsp;<a href=\"https://variety.com/2021/tv/news/mandalorian-gina-carano-1234905589/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "2/21",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "70",
@@ -697,7 +697,7 @@ export default [
         "description": "Love shared multiple Facebook posts sympathizing with Kenosha shooting suspect Kyle Rittenhouse. One post shows Rittenhouse cleaning graffiti and includes the text ‘I’m grateful that conservatives are rallying behind this kid. He genuinely seems like a good person’. Another post denigrates the two men Rittenhouse is charged with killing.&nbsp;<a href=\"https://www.baltimoresun.com/politics/bs-md-pol-maryland-official-fired-kenosha-memes-20200831-yzxnl4nslvfsve4eehpqdmn3ui-story.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "8/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "71",
@@ -707,7 +707,7 @@ export default [
         "description": "During an online class, Patton was discussing public speaking patterns and the filler words that people use to space out their ideas (um, er, etc). Patton mentioned that the Chinese use a word that is pronounced like ‘nega’ as a filler word. Some students reported Patton to the USC administration because ‘nega’ sounds like the n-word.&nbsp;<a href=\"https://reason.com/2020/09/03/usc-greg-patton-chinese-word-offended-students/\" id=\"sourceLink\">Source</a>",
         "result": "Suspended from teaching duties",
         "date": "9/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "72",
@@ -717,7 +717,7 @@ export default [
         "description": "Howard used the word ‘niggardly’ in reference to a budget. This apparently upset one of his black colleagues, who misinterpreted it as a racial slur and lodged a complaint. As a result, on January 25, Howard tendered his resignation.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Controversies_about_the_word_niggardly#David_Howard_incident\" id=\"sourceLink\">Source</a>",
         "result": "Resigned, later rehired",
         "date": "1/99",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "73",
@@ -727,7 +727,7 @@ export default [
         "description": "During an online class Poor asked a student where he was from. When the student said he was from Wuhan, Poor replied ‘Wuhan? Well, let me get my mask on’. Poor later apologized in an email and said the reference was meant as a joke.&nbsp;<a href=\"https://www.ksdk.com/article/news/local/missouri-professor-fired-wuhan-student/63-08311bf6-fb2f-49af-a104-f8f615113350\" id=\"sourceLink\">Source</a>",
         "result": "Suspended from Teaching",
         "date": "8/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "74",
@@ -737,7 +737,7 @@ export default [
         "description": "Cole James, President of the Heritage Foundation, was appointed to be a member of a new advisory panel on the ethics of artificial intelligence. More than 2,300 Google employees signed a petition calling for Google to take Cole James off the council. The petition described her as ‘vocally anti-trans, anti-LGBTQ, and anti-immigrant’.&nbsp;<a href=\"https://www.cnbc.com/2019/04/04/google-cancels-controversial-ai-ethics-panel.html\" id=\"sourceLink\">Source</a>",
         "result": "Panel Disbanded",
         "date": "4/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "75",
@@ -747,7 +747,7 @@ export default [
         "description": "After her employer announced that they would be allowing men to use the women's locker rooms, Triller pushed back in a blog post for The Federalist. In her post, Triller told her own story of sexual trauma and argued that her employer’s new policy would put women and girls at risk of abuse.&nbsp;<a href=\"https://4w.pub/women-united-states-fired-for-talking-about-feminism/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "1/16",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "76",
@@ -757,7 +757,7 @@ export default [
         "description": "While teaching about angles Frisch straightened out his right arm to demonstrate, inadvertently pantomiming the Nazi salute. In an attempt to defuse the awkwardness of the moment, he jokingly said ‘Heil Hitler!’. He was accused of anti-semitism and given the choice of resignation or being fired. Frisch’s father was Jewish and two of his great-grandmothers were killed at Auschwitz.&nbsp;<a href=\"https://www.nytimes.com/interactive/2018/09/05/magazine/friends-new-york-quaker-school-ben-frisch-hitler-joke.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "2/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "77",
@@ -777,7 +777,7 @@ export default [
         "description": "In the wake of the death of George Floyd, the Poetry Foundation released a statement expressing ‘solidarity with the Black community’ and declaring faith in ‘the strength and power of poetry to uplift in times of despair’. Amid social media backlash, a letter from several poets called the statement ‘worse than the bare minimum’ and demanded ‘official action’ within one week.&nbsp;<a href=\"https://www.nytimes.com/2020/06/09/books/poetry-foundation-black-lives-matter.html\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "79",
@@ -787,7 +787,7 @@ export default [
         "description": "In reference to his Black court clerk, Carney said: ‘We have just a fabulous clerk of the court in Kiry Gray. She’s so street-smart and really knows her job.’ Several court staffers and attorneys were upset by the remark, which they interpreted as having a ‘derogatory and racially insensitive layer’.&nbsp;<a href=\"https://www.nationalreview.com/2020/07/federal-judge-cormac-carney-latest-victim-woke-mob/\" id=\"sourceLink\">Source</a>",
         "result": "Stepped down as Chief Judge",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "80",
@@ -797,7 +797,7 @@ export default [
         "description": "White’s Twitter account bio states that ‘gender non conformity is wonderful; denying biological sex not so’, notes that she supports ‘radical feminism’, and contains the hashtag ‘# istandwithJKRowling’. Some trans activists on Twitter accused White of being transphobic and a trans-exclusionary radical feminist (TERF).&nbsp;<a href=\"https://reclaimthenet.org/literary-agent-fired-alt-twitter-account/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "8/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "81",
@@ -807,7 +807,7 @@ export default [
         "description": "A customer began yelling and tearing goods from a vendor selling a t-shirt with a drawing of the Pillsbury Doughboy in a ‘Heil Hitler’ salute with text underneath that read ‘White Flour’. Okrent asked the customer to leave and the vendor to take the t-shirt off the table. A boycott of the market started on Facebook, accusing Okrent (who is Jewish) of being a racist, fascist, Nazi apologist.&nbsp;<a href=\"https://www.thestranger.com/slog/2017/12/15/25630951/nazi-dough-boy-t-shirt-leads-to-punk-rock-flea-market-boycotts\" id=\"sourceLink\">Source</a>",
         "result": "Business Boycotted",
         "date": "12/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "82",
@@ -817,7 +817,7 @@ export default [
         "description": "The owner of another small knitting company made a post about her excitement over an upcoming trip to India. An online mob accused her of having an ‘imperialist mindset toward India’. Tusken posted on Instagram that she saw the event as ‘bullying’ toward a small business. Members of the knitting world called Tusken racist, accused her of hate speech, and organized a boycott of her business.&nbsp;<a href=\"https://quillette.com/2019/02/17/a-witch-hunt-on-instagram/\" id=\"sourceLink\">Source</a>",
         "result": "Destruction of Business",
         "date": "1/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "83",
@@ -827,7 +827,7 @@ export default [
         "description": "Halls (who is British) imitated a southern American accent while talking to his Black friend Reginald Mobley. A white woman overheard the joke and reported it to officials at the University of Oregon, claiming it amounted to a racial slur. Halls’ four year contract was terminated.&nbsp;<a href=\"https://www.telegraph.co.uk/news/2017/09/09/british-conductor-sacked-us-music-festival-joke-labelled-racist/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "9/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "84",
@@ -847,7 +847,7 @@ export default [
         "description": "Kestin wrote ‘The Siege of Tel Aviv’, a novel that imagines an Iran-led attack on Israel that leaves the country decimated. Social media posts called the premise of the book Islamophobic.  The book was dropped by Dzanc Books on the basis that it ‘perpetuates harmful narratives regarding Muslims that we cannot support, as a house’.&nbsp;<a href=\"https://www.jta.org/2019/05/13/culture/he-wrote-a-book-about-an-imagined-iranian-attack-on-israel-then-the-publisher-withdrew-it/\" id=\"sourceLink\">Source</a>",
         "result": "Dropped by Publisher",
         "date": "5/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "86",
@@ -857,7 +857,7 @@ export default [
         "description": "The Women’s Liberation Front rented out a New York Public Library (NYPL) branch for an ‘Evening with Canceled Women’ speaking out about ‘women’s rights to a life free of pervasive harassment, silencing, coercion, violence, forced lying and endless punishment’. The event was canceled by NYPL without explanation.&nbsp;<a href=\"https://nypost.com/2020/01/15/the-new-york-public-library-opts-to-cancel-un-pc-feminists/\" id=\"sourceLink\">Source</a>",
         "result": "Event canceled by NYPL",
         "date": "1/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "87",
@@ -867,7 +867,7 @@ export default [
         "description": "In her novel ‘American Dirt’, Cummins wrote about a mother-and-son pair of migrants on the run from murderous drug lords. The book was criticized on the basis that Cummins, a white woman, wrote about something other than her own lived experience. The publisher canceled the book tour due to physical threats against Cummins.&nbsp;<a href=\"https://nypost.com/2020/02/02/ridiculous-attacks-on-american-dirt-are-fresh-reason-to-nix-cancel-culture/\" id=\"sourceLink\">Source</a>",
         "result": "Physical threats, Publisher canceled tour",
         "date": "2/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "88",
@@ -877,7 +877,7 @@ export default [
         "description": "During the Minneapolis riots, Frederick tweeted that the gas station on her block was ‘officially getting looted’ and that she was calling the police, ‘as someone will need to board up this place’. Many on twitter accused her of racism for calling the police. The backlash resulted in three out of four of her agents resigning and the loss of several clients.&nbsp;<a href=\"https://www.publishersweekly.com/pw/by-topic/industry-news/people/article/83469-three-agents-resign-after-red-sofa-literary-owner-s-tweet.html\" id=\"sourceLink\">Source</a>",
         "result": "Damage to business",
         "date": "5/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "89",
@@ -897,7 +897,7 @@ export default [
         "description": "Reed was invited to give a talk at the Democratic Socialists of America’s NYC chapter. He planned to discuss how the left’s intense focus on the disproportionate impact of COVID-19 on Black people undermined multiracial organizing. Members of the DSA called to cancel Reed’s talk on the basis that he was downplaying racism and is a ‘reactionary, class reductionist and at best, tone deaf.’&nbsp;<a href=\"https://www.nytimes.com/2020/08/14/us/adolph-reed-controversy.html\" id=\"sourceLink\">Source</a>",
         "result": "Talk Canceled",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "91",
@@ -907,7 +907,7 @@ export default [
         "description": "Wrote ‘American Heart’, a young adult novel about a dystopian future America in which Muslims are forcefully corralled into detention centers. The book was given a positive rating by a female, Muslim reviewer at Kirkus. However, online backlash accused Moriarity of ‘profiting off people’s pain’ and creating a ‘white savior’ character in her novel.&nbsp;<a href=\"https://slate.com/culture/2017/10/kirkus-withdraws-starred-review-after-criticism.html\" id=\"sourceLink\">Source</a>",
         "result": "Kirkus review retracted and replaced with apology",
         "date": "10/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "92",
@@ -917,7 +917,7 @@ export default [
         "description": "Hayward was a visiting scholar teaching a class called ‘Free-Market Environmentalism’. When students discovered his history of taking conservative positions, they accused him of being ‘a climate denier who actively promotes ideas that harm communities of color and other marginalized groups’ and of ‘repeated racist, misogynistic, and transphobic statements.’&nbsp;<a href=\"https://www.commentarymagazine.com/articles/steven-hayward/campus-cancel-culture-berkeley/\" id=\"sourceLink\">Source</a>",
         "result": "Pushed out of Goldman School of Public Policy",
         "date": "NaN/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "93",
@@ -927,7 +927,7 @@ export default [
         "description": "McAdams was fired over his blog post criticizing a student instructor he believed shut down discussion about opposition to gay marriage. McAdams sued the school for his termination and won. In its 2018 decision, the Wisconsin Supreme Court determined that Marquette breached its contract to guarantee McAdams academic freedom.&nbsp;<a href=\"https://archive.jsonline.com/news/education/marquettes-john-mcadams-suspended-after-criticizing-ta-on-gay-marriage-discussion-b99410656z1-286100731.html/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "12/14",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "94",
@@ -937,7 +937,7 @@ export default [
         "description": "Linehan tweeted: ‘men aren't women tho’ in response to a tweet by the Women's Institute wishing happy Pride Month to its transgender members. Twitter permanently suspended Lineham’s account on the basis that his comments constituted ‘hateful conduct’.&nbsp;<a href=\"https://www.cnn.com/2020/06/27/entertainment/graham-linehan-twitter-removal-trnd/index.html\" id=\"sourceLink\">Source</a>",
         "result": "Banned from Twitter",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "95",
@@ -947,7 +947,7 @@ export default [
         "description": "Posted a picture of an AR-15 on Instagram and wrote ‘Don’t tread on me. #198964’. Also posted a picture of David Dorn, a black police officer who was shot and killed during looting, as a critique of the conventional BLM narrative.&nbsp;<a href=\"https://fordhamobserver.com/48725/news/student-pledges-lawsuit-against-university-disputing-disciplinary-actions/\" id=\"sourceLink\">Source</a>",
         "result": "Banned from campus, must undergo implicit bias training",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "96",
@@ -957,7 +957,7 @@ export default [
         "description": "Charney was accused of ‘making some students feel uncomfortable’ by taking a devil’s-advocate approach in debating sensitive issues. Students complained that ‘his class reproduces systems and structures of inequality involving notions of class, privilege and power’. He was fired despite a petition by students and alumni to reinstate him.&nbsp;<a href=\"https://www.thecollegefix.com/this-professor-is-beloved-for-making-his-students-intellectually-uncomfortable-duke-just-dumped-him/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "5/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "97",
@@ -967,7 +967,7 @@ export default [
         "description": "Josephson was accused of transphobia for saying that new treatments for those with gender dysphoria were ‘poorly supported’ and ‘didn’t ‘serve their long-term health interests’. He also said that ‘the notion that gender identity should trump... reproductive organs, external genitalia... is counter to medical science’.&nbsp;<a href=\"https://louisvillefuture.com/archived-news/federal-lawsuit-says-uofl-professor-was-fired-over-transphobic-remarks/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "98",
@@ -977,7 +977,7 @@ export default [
         "description": "Thompson presented conservative views on such topics as same-sex marriage and sexual orientation in his classes. The college dismissed Thompson after concluding he violated policies that promote diversity and inclusion. In 2018 Thompson challenged the dismissal in court and won.&nbsp;<a href=\"https://www.mercurynews.com/2019/08/28/court-sides-with-moreno-valley-college-professor-who-says-he-was-fired-for-presenting-conservative-views/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "10/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "99",
@@ -997,7 +997,7 @@ export default [
         "description": "Adamo’s class discussed the book ‘The Fire Next Time’ by James Baldwin which contains the N-word. Adamo spoke the N-word aloud to introduce a class discussion around whether or not the word should be spoken in that context, presenting arguments for and against its use.&nbsp;<a href=\"https://www.thefire.org/fire-calls-on-augsburg-university-to-reinstate-professor-suspended-for-in-class-discussion-about-a-racial-slur/\" id=\"sourceLink\">Source</a>",
         "result": "Suspended, Removed as Honors College Director",
         "date": "2/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "101",
@@ -1007,7 +1007,7 @@ export default [
         "description": "Povey was responsible for maintaining servers for Hopkin’s Center for Language and Speech Lab, which were located inside a building that students had locked up as part of a month-long protest. Anxious about losing his and others’ research, Povey broke into the building with bolt cutters in order to access the servers.&nbsp;<a href=\"https://www.baltimoresun.com/education/bs-md-ci-hopkins-prof-fired-20190810-4hgr2vm3bvczjau4j7urd6s2hu-story.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "8/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "102",
@@ -1017,7 +1017,7 @@ export default [
         "description": "At a Python programming conference Mr. Hank made a joke about ‘big’ dongles and ‘forking someone’s repo’ to his friends. Adria Richards, a journalist sitting in front of them, found the jokes inappropriate and called them out on Twitter for making the conference environment unwelcoming toward women. Mr. Hank was subsequently fired. The incident is also known as ‘Donglegate’.&nbsp;<a href=\"https://techcrunch.com/2013/03/21/a-dongle-joke-that-spiraled-way-out-of-control/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "3/13",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "103",
@@ -1027,7 +1027,7 @@ export default [
         "description": "According to a program administrator, Schwarz liked to ‘play devil's advocate’ when talking with other people about ‘diversity and social justice’. Schwartz was fired on the basis that she ‘has not demonstrated a commitment to social justice growth and promotion to residents’.&nbsp;<a href=\"https://reason.com/2017/02/08/residential-advisor-loses-job-because-sh/\n\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "2/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "104",
@@ -1037,7 +1037,7 @@ export default [
         "description": "Rectenwald launched an undercover Twitter account called ‘Deplorable NYU Prof’ to argue against campus trends like ‘safe spaces’, ‘trigger warnings’, policing Halloween costumes and other aspects of academia’s growing PC culture.&nbsp;<a href=\"https://nypost.com/2016/10/30/nyu-professor-who-opposed-pc-culture-gets-booted-from-classroom/\" id=\"sourceLink\">Source</a>",
         "result": "Mandatory Leave",
         "date": "10/16",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "105",
@@ -1047,7 +1047,7 @@ export default [
         "description": "Wilson wrote a post decrying the pushback against traditional education which, he argues, is being replaced by a ‘student-focused’ approach that deemphasizes the authority of the teacher and the learning of facts. He goes on to say that some civil rights advocates have attacked traditional education by equating it with ‘whiteness’.  For this, Wilson was accused of using white supremacist rhetoric.&nbsp;<a href=\"https://www.theatlantic.com/ideas/archive/2019/11/ascend-charter-school-petition/601696/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "11/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "106",
@@ -1067,7 +1067,7 @@ export default [
         "description": "In 2018 Schafer attended a Halloween party dressed as Megyn Kelly-in-blackface. The basis for Schafer’s costume was topical. NBC had recently fired Megyn Kelly after she said that she didn’t understand why it was considered racist for people to wear blackface as part of a Halloween costume. The Washington Post ran a story on Shafer’s costume in 2020, causing her to be fired.&nbsp;<a href=\"https://nymag.com/intelligencer/2020/06/why-did-the-washington-post-get-this-woman-fired.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "108",
@@ -1077,7 +1077,7 @@ export default [
         "description": "NYU dining hall served ribs, collard greens, cornbread, Kool-Aid and watermelon-flavored water in celebration of Black History Month, resulting in public outcry. Hoben was blamed for the mistake despite the fact that Aramark had asked managers to ask their black employees to submit menu items for the Black History Month promotion and explicitly approved the food items they chose.&nbsp;<a href=\"https://nymag.com/intelligencer/2019/02/nyu-aramark-black-history-month-menu.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "9/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "109",
@@ -1107,7 +1107,7 @@ export default [
         "description": "Alexander anonymously published a ‘rationalist community’ blog (called ‘Slate Star Codex’) that defended the views of James Damore, contested that Trump was an overt racist, and questioned the value of masks in fighting COVID-19. A New York Times technology writer told Alexander that he was going to reveal Alexander’s identity in an upcoming article. Alexander deleted the blog to avoid doxxing.&nbsp;<a href=\"https://www.newyorker.com/culture/annals-of-inquiry/slate-star-codex-and-silicon-valleys-war-against-the-media\" id=\"sourceLink\">Source</a>",
         "result": "Deleted blog to avoid doxxing",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "112",
@@ -1127,7 +1127,7 @@ export default [
         "description": "Posted a three minute Facebook video where she stated that she doesn’t support the Black Lives Matter movement. In the video she also cites crime statistics about police officers killing more white Americans than black Americans and the overall crime rates of black Americans compared with white Americans.&nbsp;<a href=\"https://reclaimthenet.org/tabitha-morris-cancel-culture/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "114",
@@ -1157,7 +1157,7 @@ export default [
         "description": "Wang published a paper in the Journal of the American Heart Association arguing against affirmative action within medicine. He wrote: ‘There exists no empirical evidence by accepted standards for causal inference to support the mantra that diversity saves lives’. He also wrote that aspiring doctors should be evaluated ‘on the basis of their personal merits, not their racial and ethnic identities’.&nbsp;<a href=\"https://www.campusreform.org/?ID=15400\" id=\"sourceLink\">Source</a>",
         "result": "Demoted",
         "date": "8/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "117",
@@ -1167,7 +1167,7 @@ export default [
         "description": "Griffin posted a video of herself holding a mask styled to look like the severed, bloody head of Donald Trump, which was posted on her Instagram and Twitter accounts. She wrote: ‘I caption this 'there was blood coming out of his eyes, blood coming out of his ... wherever’’, referencing a comment Trump had made about Megyn Kelly.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Kathy_Griffin#Depiction_of_Donald_Trump\" id=\"sourceLink\">Source</a>",
         "result": "Shows canceled by venues, Dropped by CNN &amp; Squatty Potty",
         "date": "5/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "118",
@@ -1177,7 +1177,7 @@ export default [
         "description": "When teaching a class, Navarro said ‘Adolf Hitler said he'd make Germany great again. Donald Trump said he's going to make America great again...Hitler focused on the Jews as the great peril of Germany, and Trump focused on the Muslims and talk about a registry and keeping Muslims out of the country.’ A student complained, triggering an investigation by the Superintendent.&nbsp;<a href=\"https://www.kqed.org/news/11184538/a-40-year-teaching-career-ending-after-trumphitler-comparison-in-mountain-view\" id=\"sourceLink\">Source</a>",
         "result": "Investigation, Retirement",
         "date": "11/16",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "119",
@@ -1207,7 +1207,7 @@ export default [
         "description": "Wrote a blog post called ‘Blacks are Lazy’ on his personal blog that actually went on to refute that statement. (The title was intended as clickbait.) Nelson later replaced the title with ‘Blacks are not lazy’, but calls were still made to remove him from his position.&nbsp;<a href=\"https://idm.net.au/blog/003135open-source-chief-makes-swift-exit-after-racist-gaffe\" id=\"sourceLink\">Source</a>",
         "result": "Resignation",
         "date": "2/05",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "122",
@@ -1217,7 +1217,7 @@ export default [
         "description": "A student in Vlaming’s class transitioned from female to male. He asked Vlaming to refer to him with masculine pronouns. Vlaming responded that doing so was contrary to his religious beliefs because he does not believe that the student is actually a male and his religion forbids him from lying. Vlaming was, however, willing to call the student by his new chosen name&nbsp;<a href=\"https://www.forbes.com/sites/evangerstmann/2019/10/03/virginia-school-district-fires-teacher-who-wouldnt-refer-to-transgender-student-using-male-pronouns/#43d6bd56ed58\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "12/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "123",
@@ -1227,7 +1227,7 @@ export default [
         "description": "Gordon criticized the Black Lives Matter organization in his book, ‘Catholic Republic: Why America Will Perish Without Rome’, calling BLM ‘a threat to Western family structure, namely the Christian family structure’. On twitter he called BLM a ‘terrorist organization’.&nbsp;<a href=\"https://spectator.us/teacher-targeted-thought-police-timothy-gordon-black-lives-matter/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "124",
@@ -1247,7 +1247,7 @@ export default [
         "description": "Wrote an email to the Tech Catholic Community in which he said George Flyod’s death was a tragedy but that he had not led a virtuous life and that it was unclear if he died due to racism. He also criticized the BLM protests and cancel culture.&nbsp;<a href=\"https://newbostonpost.com/2020/06/19/heres-what-the-m-i-t-catholic-chaplain-got-fired-over/\" id=\"sourceLink\">Source</a>",
         "result": "Forced Resignation",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "126",
@@ -1257,7 +1257,7 @@ export default [
         "description": "In a packed elevator at an academic conference, joked he wanted to get out at ‘Ladies' Lingerie’. His joke was reported by another attendee as sexual harassment.&nbsp;<a href=\"https://www.theatlantic.com/politics/archive/2018/05/is-this-old-lingerie-joke-harmless-or-harassment/559760/\" id=\"sourceLink\">Source</a>",
         "result": "Publicly Censured",
         "date": "4/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "127",
@@ -1277,7 +1277,7 @@ export default [
         "description": "Tweeted: ‘Religion is a retarded relic that really needs archiving in humanity’s library of bad ideas. #atheist’.&nbsp;<a href=\"https://www.atheistalliance.org/announcements/michael-sherlock/\" id=\"sourceLink\">Source</a>",
         "result": "Suspended without pay for 30 days",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "129",
@@ -1287,7 +1287,7 @@ export default [
         "description": "Posted a Facebook photo of her daughter posing near anti-police graffiti.&nbsp;<a href=\"https://www.dispatch.com/news/20200728/pickerington-principal-loses-promotion-due-to-social-media-post\" id=\"sourceLink\">Source</a>",
         "result": "Lost Promotion",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "130",
@@ -1297,7 +1297,7 @@ export default [
         "description": "Provided legal advice to the Harvey Weinstein defense.&nbsp;<a href=\"https://www.theatlantic.com/ideas/archive/2019/05/ronald-sullivan-was-fired-harvard-does-it-matter/589471/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "5/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "131",
@@ -1307,7 +1307,7 @@ export default [
         "description": "Just before boarding a plane, tweeted: ‘Going to Africa. Hope I don't get AIDS. Just kidding. I'm white!’&nbsp;<a href=\"https://www.cnn.com/2013/12/22/world/sacco-offensive-tweet/index.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "12/13",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "132",
@@ -1327,7 +1327,7 @@ export default [
         "description": "Tweeted that ‘Barron [Trump] will be this country’s first home-school shooter’.&nbsp;<a href=\"https://www.hollywoodreporter.com/live-feed/saturday-night-live-writer-suspended-barron-trump-tweet-967491\" id=\"sourceLink\">Source</a>",
         "result": "Suspended for 6 months",
         "date": "1/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "134",
@@ -1337,7 +1337,7 @@ export default [
         "description": "Wrote a young adult fantasy novel that depicted a society that was ‘color blind’ and had slaves that were not differentiated by darker skin. The novel was attacked as ‘anti black’.&nbsp;<a href=\"https://slate.com/culture/2019/01/blood-heir-ya-book-twitter-controversy.html\" id=\"sourceLink\">Source</a>",
         "result": "Book pulled from publication",
         "date": "1/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "135",
@@ -1357,7 +1357,7 @@ export default [
         "description": "In response to an op-ed by a low-income Latina student, sent the student a personal email pledging to work to serve those who ‘don’t fit our CMC mold.’&nbsp;<a href=\"https://www.latimes.com/local/lanow/la-me-ln-claremont-marches-20151112-story.html\" id=\"sourceLink\">Source</a>",
         "result": "Resignation",
         "date": "11/15",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "137",
@@ -1377,7 +1377,7 @@ export default [
         "description": "Geary launched an ice cream and popsicle cart in a once-predominantly Latino neighborhood. Thousands of comments on Geary’s facebook account accused him of cultural appropriation and gentrification. Geary later announced that he would no longer be using the cart.&nbsp;<a href=\"https://blockclubchicago.org/2020/07/21/logan-square-neighbors-say-vendor-appropriating-latino-culture-with-popsicle-cart-similar-to-paleta-cart/\" id=\"sourceLink\">Source</a>",
         "result": "Threats, Self-shutdown",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "139",
@@ -1387,7 +1387,7 @@ export default [
         "description": "Tweeted that Black Lives Matter ‘torpedoed itself’ by supporting calls to defund the police. Also tweeted: ‘Time for sensible adults to enter back into the room and have serious, earnest, respectful conversations about it all’.&nbsp;<a href=\"https://www.theatlantic.com/ideas/archive/2020/07/perils-us-or-against-us/613981/\" id=\"sourceLink\">Source</a>",
         "result": "Lost role at Federal Reserve Bank of Chicago",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "140",
@@ -1397,7 +1397,7 @@ export default [
         "description": "Tweeted a joke about former Obama aide Valerie Jarrett that read: ‘Muslim brotherhood &amp; planet of the apes had a baby = VJ’. Barr later apologized.&nbsp;<a href=\"https://www.nytimes.com/2018/05/29/business/media/roseanne-barr-offensive-tweets.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired, Blacklisted",
         "date": "5/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "141",
@@ -1417,7 +1417,7 @@ export default [
         "description": "Accused of racially profiling a group of black entrepreneurs in a video that went viral. In the video, Austin tells the men he is a tenant in the building before asking them: ‘Are you?’ When the men replied that they are also tenants, he asked them what office they're in. When they refused, he threatened to call 911.&nbsp;<a href=\"https://www.newsweek.com/minneapolis-man-loses-job-viral-video-racial-profiling-1507111\" id=\"sourceLink\">Source</a>",
         "result": "Fired, Lease Terminated",
         "date": "5/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "143",
@@ -1427,7 +1427,7 @@ export default [
         "description": "Tweeted in support of President Trump and of schools reopening in the fall of 2020. Kucera retweeted Trump’s message that ‘SCHOOLS MUST OPEN IN THE FALL’ and said ‘I’m done being silent. @realDonaldTrump is our president… Don’t @ me’.&nbsp;<a href=\"https://nypost.com/2020/07/22/michigan-teacher-claims-he-was-fired-over-pro-trump-tweets/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "144",
@@ -1437,7 +1437,7 @@ export default [
         "description": "Matthews ‘inappropriately flirted’ with journalist Laura Basset in the makeup room ahead of her 2016 appearance on ‘Hardball’. He allegedly looked over at Bassett in the makeup chair next to him and said, 'Why haven’t I fallen in love with you yet?'&nbsp;<a href=\"https://www.usatoday.com/story/entertainment/celebrities/2020/03/02/chris-matthews-resigns-hardball-msnbc-following-allegations/4907195002/\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "3/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "145",
@@ -1447,7 +1447,7 @@ export default [
         "description": "A social media post showed Gundy on a fishing trip wearing a OAN (One America News) T-shirt. OAN is a far-right news network that has criticized Black Lives Matter. Gundy apologized for the ‘pain and discomfort’ he caused his players and others.&nbsp;<a href=\"https://www.espn.com/college-football/story/_/id/29405112/oklahoma-state-coach-mike-gundy-agrees-take-1m-pay-cut-review\" id=\"sourceLink\">Source</a>",
         "result": "$1M pay cut",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "146",
@@ -1467,7 +1467,7 @@ export default [
         "description": "Tweeted a joke on International Women's Day: ‘Ah. Peace and quiet. #ADayWithoutAWoman’.&nbsp;<a href=\"https://www.polygon.com/2017/3/13/14911306/kinda-funny-co-founder-colin-moriarty-quits-after-sexist-tweet\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "3/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "148",
@@ -1477,7 +1477,7 @@ export default [
         "description": "Said ‘Colonel Sanders called blacks n-----s’ during an internal call with public relations consultants. He intended this and other remarks to convey his hatred of racism and prove that he was not racist in comparison.&nbsp;<a href=\"https://www.courier-journal.com/story/news/2018/07/11/forbes-report-papa-johns-founder-schnatter-used-n-word/774752002/\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "7/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "149",
@@ -1487,7 +1487,7 @@ export default [
         "description": "Questioned and opposed elements of the college’s new Equity Strategic Plan. Wrote a public email objecting to the ‘Day of Absence’ that was intended to raise awareness about race by asking white people to stay off campus for a day.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Bret_Weinstein#Evergreen_State_College_Day_of_Absence\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "9/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "150",
@@ -1497,7 +1497,7 @@ export default [
         "description": "Used N-word in a song about American xenophobia and institutionalized racism. In his defense, Joyner said: ‘America is the narrator, not me… It’s a political song very much against racism, xenophobia, and the rhetoric of fear. It is not promoting those ideas but condemning them’.&nbsp;<a href=\"https://omaha.com/entertainment/music/after-public-outcry-bemis-center-drops-folk-singer-simon-joyner-over-song-with-racial-slur/article_4bdabf8b-a449-5b6e-a95e-e9877a0776a6.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "10/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "151",
@@ -1517,7 +1517,7 @@ export default [
         "description": "In response to a university-wide email asking students not to wear insensitive Halloween costumes, wrote a response claiming that students should be able to wear whatever costumes they want, even if they are offensive.&nbsp;<a href=\"https://www.theatlantic.com/politics/archive/2016/05/the-peril-of-writing-a-provocative-email-at-yale/484418/\" id=\"sourceLink\">Source</a>",
         "result": "Resigned from teaching (Erika), Resigned from Faculty-in-Residence position (both)",
         "date": "5/16",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "153",
@@ -1527,7 +1527,7 @@ export default [
         "description": "Wrote multiple articles refuting the idea that biological sex exists on a continuous spectrum. Posted tweet supporting the ‘social contagion’ hypothesis of gender dysphoria. Was publicly called a transphobe on multiple occasions. Was denied jobs in academia based on controversy.&nbsp;<a href=\"https://quillette.com/2020/07/30/think-cancel-culture-doesnt-exist-my-own-lived-experience-says-otherwise/\" id=\"sourceLink\">Source</a>",
         "result": "Pushed out of Academia",
         "date": "10/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "154",
@@ -1537,7 +1537,7 @@ export default [
         "description": "Said that blackface was acceptable in the context of Halloween costumes, saying it was ‘OK when I was a kid as long as you were dressing like a character.’ Publicly apologized soon after.&nbsp;<a href=\"https://www.rollingstone.com/tv/tv-news/megyn-kelly-nbc-fired-blackface-747389/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "10/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "155",
@@ -1557,7 +1557,7 @@ export default [
         "description": "Co-wrote the controversial book ‘The Bell Curve’, which discussed differences in intelligence between ethnic groups and argued that they may be due to both genetic and environmental differences.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Charles_Murray_(political_scientist)#The_Bell_Curve\" id=\"sourceLink\">Source</a>",
         "result": "Listed on the Southern Poverty Law Center website as a ‘White Nationalist’",
         "date": "3/14",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "157",
@@ -1577,7 +1577,7 @@ export default [
         "description": "Clopper held a play at Sanders Theatre aimed at criticizing the practice of circumcision. At various points during the performance, he stripped nude and referred to Jewish people as ‘an unmasked genital mutilation cult.’ Clopper is himself Jewish.&nbsp;<a href=\"https://www.thecrimson.com/article/2020/7/21/clopper-sues-university-crimson/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "159",
@@ -1597,7 +1597,7 @@ export default [
         "description": "In response to a tweet alleging that she didn't say enough in support of the BLM protests, Nguyen tweeted 'People die every f***ing day'. Nguyen had previously expressed support for BLM by taking part in 'Blackout Tuesday'.&nbsp;<a href=\"https://www.dailymail.co.uk/news/article-8403805/Reality-star-Dee-Nguyen-fired-MTV-offensive-comments-Black-Lives-Matter-movement.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "161",
@@ -1627,7 +1627,7 @@ export default [
         "description": "The grandson of the owner tried to stop an Oberlin student from stealing a bottle of wine - who was later charged and pled guilty. Oberlin faculty accused the market of racism, organized a demonstration &amp; boycott against them and barred purchases from the bakery from the University.&nbsp;<a href=\"https://thehill.com/opinion/judiciary/448711-oberlin-college-case-shows-how-universities-are-losing-their-way\" id=\"sourceLink\">Source</a>",
         "result": "Defamation",
         "date": "11/16",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "164",
@@ -1647,7 +1647,7 @@ export default [
         "description": "Labeled 'anti-Muslim extremist' by Southern Poverty Law Center. Claim made on the basis that Nawaz (1) tweeted a cartoon of Muhammad, (2) went to a strip club, (3) criticized the niqab &amp; (4) compared non-violent &amp; violent Islamists.&nbsp;<a href=\"https://www.theatlantic.com/international/archive/2016/10/maajid-nawaz-splc-anti-muslim-extremist/505685/\" id=\"sourceLink\">Source</a>",
         "result": "Defamation",
         "date": "10/16",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "166",
@@ -1657,7 +1657,7 @@ export default [
         "description": "Made statements critical of Islam. In 2014, protests against her led Brandeis University to rescind its offer of an honorary degree. In 2017 the Southern Poverty Law Center labeled her an 'anti-Muslim extremist'.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ayaan_Hirsi_Ali\" id=\"sourceLink\">Source</a>",
         "result": "Defamation",
         "date": "4/14",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "167",
@@ -1667,7 +1667,7 @@ export default [
         "description": "Released statement defending 50-year policy of not engaging in public debate. Amid outcry, they apologized &amp; vowed to change policy. Non-profit, 'The Word', wasn't satisfied &amp; organized boycott until the store complies with a list of 10 'action items'.&nbsp;<a href=\"https://303magazine.com/2020/06/the-word-open-letter-demands-tattered-cover/\" id=\"sourceLink\">Source</a>",
         "result": "Boycott",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "168",
@@ -1677,7 +1677,7 @@ export default [
         "description": "Accused of appropriating burrito recipe from Mexican women.&nbsp;<a href=\"https://www.huffpost.com/entry/portland-burrito-cart-closes-after-owners-are-accused-of-cultural-appropriation_n_5926ef7ee4b062f96a348181\" id=\"sourceLink\">Source</a>",
         "result": "Shaming, self-closing",
         "date": "5/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "169",
@@ -1707,7 +1707,7 @@ export default [
         "description": "Read aloud Martin Luther King's 'Letter from Birmingham Jail' which includes the n-word.&nbsp;<a href=\"https://freebeacon.com/issues/university-to-investigate-lecturer-for-reading-mlks-letter-from-birmingham-jail/\" id=\"sourceLink\">Source</a>",
         "result": "Under Investigation",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "172",
@@ -1727,7 +1727,7 @@ export default [
         "description": "Posted: 'I firmly believe that Black Lives Matter, but I DO NOT agree with the coercive measures taken to get to this point across; some of which are falsified in an attempt to prove a point'.&nbsp;<a href=\"https://nypost.com/2020/06/15/vermont-principal-placed-on-leave-over-facebook-post-on-blm/\" id=\"sourceLink\">Source</a>",
         "result": "Administrative Leave",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "174",
@@ -1737,7 +1737,7 @@ export default [
         "description": "Wrote an article for Quillette called 'Why Women Don't Code'. This was tweeted by Jordan Peterson, causing media attention and public backlash.&nbsp;<a href=\"https://quillette.com/2020/01/11/demoted-and-placed-on-probation/\" id=\"sourceLink\">Source</a>",
         "result": "Demoted, Probation",
         "date": "6/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "175",
@@ -1767,7 +1767,7 @@ export default [
         "description": "In the past Hsu discussed intelligence differences between races. He said there was not strong evidence in favor of these differences but defended the right of researchers to investigate the question.&nbsp;<a href=\"https://reason.com/2020/06/21/michigan-state-university-vp-of-research-ousted-because-of-his-past-scientific-statements/\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "178",
@@ -1777,7 +1777,7 @@ export default [
         "description": "Ran headline that read 'Buildings Matter, Too'.&nbsp;<a href=\"https://www.post-gazette.com/news/state/2020/06/06/Stan-Wischnowski-to-resign-as-The-Philadelphia-Inquirer-s-top-editor/stories/202006060042\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "179",
@@ -1787,7 +1787,7 @@ export default [
         "description": "Posted to facebook: 'If you choose to speak out against the police or our members, we will do everything in our power to not support your business.'&nbsp;<a href=\"https://6abc.com/police-officer-fired-over-social-media-controversy-robert-skippy-carroll/6296025/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "180",
@@ -1817,7 +1817,7 @@ export default [
         "description": "Wrote article in 1987 saying that women should not be in combat roles. Apologized later, calling article 'embarrassingly wrong and offensive.'&nbsp;<a href=\"https://nypost.com/2020/07/03/boeing-communications-boss-niel-golightly-resigns-over-article/\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "183",
@@ -1837,7 +1837,7 @@ export default [
         "description": "Wrote on a chalkboard next to a stack of microaggressions flyers: 'Please don't leave garbage lying around'.&nbsp;<a href=\"https://www.jamesgmartin.center/2020/05/math-professor-mocks-a-leftist-belief-and-gets-fired/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "12/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "185",
@@ -1847,7 +1847,7 @@ export default [
         "description": "Posted online: 'the only racists here are the piece of s--- Black Lives Matter terrorists and their supporters'.&nbsp;<a href=\"https://www.thewrap.com/black-lives-matter-comments-11-people-fired-suspended/\" id=\"sourceLink\">Source</a>",
         "result": "Demoted",
         "date": "9/16",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "186",
@@ -1857,7 +1857,7 @@ export default [
         "description": "Tweeted: 'Rioters don’t care about social issues. They are thugs looking for an opportunity to break the law with impunity' and called NC a 'slave state' for COVID restrictions in another tweet. Forced into retirement and subsequently found dead.&nbsp;<a href=\"https://www.wect.com/2020/06/29/uncw-announces-that-controversial-professor-mike-adams-retire-aug/\" id=\"sourceLink\">Source</a>",
         "result": "Retired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "187",
@@ -1887,7 +1887,7 @@ export default [
         "description": "Video surfaced of him taking Black Lives Matter signs off the fence at a South Philadelphia playground.&nbsp;<a href=\"https://www.dailymail.co.uk/news/article-8426671/White-man-fired-ripping-Black-Lives-Matter-signs-saying-not-dont.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "190",
@@ -1897,7 +1897,7 @@ export default [
         "description": "Accused of making 'homophobic and racists tweets', however tweet quoted in article was neither: 'There either is a cat on my flight, meowing repeatedly a few rows behind me, or a REALLY horny woman.'&nbsp;<a href=\"https://www.businessinsider.com/conde-nast-matt-duckor-leaves-company-backlash-diversity-2020-6?r=US&amp;IR=T\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "191",
@@ -1907,7 +1907,7 @@ export default [
         "description": "Made remarks at the Society for Classical Studies conference defending the value of studying the classics. Was accused of saying black professor got his job because he is black. Lost editor job with Association of Ancient Historians (AAH).&nbsp;<a href=\"https://quillette.com/2019/02/26/how-i-was-kicked-out-of-the-society-for-classical-studies-annual-meeting/\" id=\"sourceLink\">Source</a>",
         "result": "Lost Editor Position",
         "date": "2/19",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "192",
@@ -1927,7 +1927,7 @@ export default [
         "description": "Said 'BLACK LIVES MATTER, but also, EVERYONE'S LIFE MATTERS' in email.&nbsp;<a href=\"https://www.washingtonexaminer.com/news/dean-of-massachusetts-nursing-school-fired-after-saying-everyones-life-matters\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "194",
@@ -1937,7 +1937,7 @@ export default [
         "description": "Posted video calling Dallas sniper a 'martyr'.&nbsp;<a href=\"https://www.thewrap.com/black-lives-matter-comments-11-people-fired-suspended/\" id=\"sourceLink\">Source</a>",
         "result": "Administrative Leave",
         "date": "9/16",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "195",
@@ -1947,7 +1947,7 @@ export default [
         "description": "Used the N-word in a meeting about offensive words in comedy.&nbsp;<a href=\"https://www.hollywoodreporter.com/live-feed/jonathan-friedland-exits-netflix-1122675\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/18",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "196",
@@ -1957,7 +1957,7 @@ export default [
         "description": "Wrote memo on google 'echo chamber', said male/female disparities can be partly explained by biological difference.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Google%27s_Ideological_Echo_Chamber\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "197",
@@ -1967,7 +1967,7 @@ export default [
         "description": "Ran controversial Op-Ed by Senator Tom Cotton to bring in troops to restore order during riots.&nbsp;<a href=\"https://www.politico.com/news/magazine/2020/06/14/how-the-new-york-times-survived-the-1960s-316530\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "198",
@@ -1987,7 +1987,7 @@ export default [
         "description": "Disagrees with concept of cultural appropriation: 'In my opinion, anyone, anywhere, should be encouraged to imagine other peoples, other cultures, other identities.'&nbsp;<a href=\"https://quillette.com/2020/06/27/the-mob-that-came-after-me-is-turning-on-itself-when-will-this-end-who-does-this-help/\" id=\"sourceLink\">Source</a>",
         "result": "Stopped getting work",
         "date": "5/17",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "200",
@@ -1997,7 +1997,7 @@ export default [
         "description": "Tweeted 'FLOYD-19' and reportedly said 'I do not mourn George Floyd' on a Zoom call with gym owners.&nbsp;<a href=\"https://fortune.com/2020/06/09/crossfit-ceo-greg-glassman-resigns-founder-tweet-protests/\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "201",
@@ -2007,7 +2007,7 @@ export default [
         "description": "Responded to tweet by saying 'All Lives Matter, Every Single One!!!'.&nbsp;<a href=\"https://nypost.com/2020/06/03/nba-voice-grant-napear-opens-up-on-all-lives-matter-firing/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "202",
@@ -2017,7 +2017,7 @@ export default [
         "description": "Denied white student’s request to postpone the final exam for black students in light of G. Floyd protests.&nbsp;<a href=\"https://nypost.com/2020/06/10/ucla-suspends-professor-for-refusing-leniency-for-black-students/\" id=\"sourceLink\">Source</a>",
         "result": "Involuntary Leave",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "203",
@@ -2037,7 +2037,7 @@ export default [
         "description": "During a presentation on new acquisitions of artwork by artists of color, and he remarked, 'Don’t worry, we will definitely still continue to collect white artists.'&nbsp;<a href=\"http://sfist.com/2020/07/13/sfmoma-curator-resigns-following-uproar-over/\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "205",
@@ -2047,7 +2047,7 @@ export default [
         "description": "Coerced into unwittingly making white-supremacist hand gesture (indistinguishable from 'OK' sign) by other motorist at stoplight. Other motorist recorded event on video and showed it to Cafferty's boss.&nbsp;<a href=\"https://www.theatlantic.com/ideas/archive/2020/06/stop-firing-innocent/613615/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "206",
@@ -2057,7 +2057,7 @@ export default [
         "description": "Tweeted commentary during soccer game where player got injured: 'This is a real 'I can't breathe' moment, not one manufactured by the media.'&nbsp;<a href=\"https://thespun.com/more/soccer/drew-pells-fired-mls-soccer-writer\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "207",
@@ -2067,7 +2067,7 @@ export default [
         "description": "Refused to take off BLM face mask when manager requested.&nbsp;<a href=\"https://www.businessinsider.com/taco-bell-apologizes-worker-fired-for-black-lives-matter-mask-2020-6\" id=\"sourceLink\">Source</a>",
         "result": "Fired, then rehired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "208",
@@ -2077,7 +2077,7 @@ export default [
         "description": "Tweeted: 'Post-MLK-assasination race riots reduced Democratic vote share in surrounding counties by 2%, which was enough to tip the 1968 election to Nixon...'&nbsp;<a href=\"https://www.theatlantic.com/ideas/archive/2020/06/stop-firing-innocent/613615/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "209",
@@ -2087,7 +2087,7 @@ export default [
         "description": "Tweeted that incident where police pushed elderly man over 'wasn’t brutality... The cracked skull... was self-inflicted'.&nbsp;<a href=\"https://cornellsun.com/2020/06/08/collum-steps-down-from-top-chemistry-department-position-amid-intense-backlash-over-tweets-defending-alleged-police-brutality/\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "210",
@@ -2097,7 +2097,7 @@ export default [
         "description": "Eller released statement saying that she had not done enough to improve diversity in the newsroom, another journalist accused this statement of being 'disingenuous', Eller called other journalist 'bitter' in response.&nbsp;<a href=\"https://nypost.com/2020/06/05/claudia-eller-variety-editor-in-chief-placed-on-leave-after-twitter-spat/\" id=\"sourceLink\">Source</a>",
         "result": "Mandatory Leave",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "211",
@@ -2107,7 +2107,7 @@ export default [
         "description": "Disagreed with NBCC BLM statement, saying it was 'unfair to the white publishers that have been working to elevate Black writers, and Black voices, for years.'&nbsp;<a href=\"https://www.thedp.com/article/2020/07/carlin-romano-national-book-critic-circle-black-lives-matter\" id=\"sourceLink\">Source</a>",
         "result": "Unknown",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "212",
@@ -2117,7 +2117,7 @@ export default [
         "description": "Said things like: 'groups may vary on socially significant traits (on average) such as intelligence, agreeableness, athleticism, cooperativeness (and) criminality'.&nbsp;<a href=\"https://www.insidehighered.com/news/2020/03/12/assistant-professor-says-hes-been-fired-because-he-dared-talk-about-human-population\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "3/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "213",
@@ -2127,7 +2127,7 @@ export default [
         "description": "Posted online that BLM is 'a disease on this country.' In reference to COVID, posted that 'If people think a piece of cloth on their face helps, they are an idiot.'&nbsp;<a href=\"https://fox28spokane.com/khq-exclusive-spokane-symphony-administrator-fired-for-online-posts-about-covid-19-and-blm/\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "214",
@@ -2137,7 +2137,7 @@ export default [
         "description": "Sullivan published excerpts from 'The Bell Curve', a book that argues there are IQ score differentials among racial groups that can be explained by genetics.&nbsp;<a href=\"https://www.cnn.com/2020/07/14/media/andrew-sullivan-resigns-new-york/index.html\" id=\"sourceLink\">Source</a>",
         "result": "Resigned",
         "date": "7/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "215",
@@ -2147,7 +2147,7 @@ export default [
         "description": "His wife made 'racist and violent' comments about the George Floyd protesters. Katai apologized for his wife's comments.&nbsp;<a href=\"https://www.nydailynews.com/news/national/ny-galaxy-player-fired-after-wife-makes-racist-comments-20200605-ny5dcvambbgixl2e7o3pqvkhcy-story.html\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "216",
@@ -2157,7 +2157,7 @@ export default [
         "description": "Dismissed the notion of 'institutional racism' in an opinion piece for a separate, conservative website.&nbsp;<a href=\"https://www.foxnews.com/media/syracuse-student-journalist-fired-institutional-racism-myth\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     },
     {
         "number": "217",
@@ -2167,6 +2167,6 @@ export default [
         "description": "Old photo surfaced of Rapoport dressed like Puerto Rican man for Halloween.&nbsp;<a href=\"https://www.npr.org/2020/06/09/872697289/chief-editor-at-bon-app-tit-resigns-after-racially-offensive-photo-surfaces\" id=\"sourceLink\">Source</a>",
         "result": "Fired",
         "date": "6/20",
-        "country": "<img height=\"16\" src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 7410 3900'%3E %3Crect width='7410' height='3900' fill='%23b22234'/%3E %3Cpath d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='%23fff' stroke-width='300'/%3E %3Crect width='2964' height='2100' fill='%233c3b6e'/%3E %3Cg fill='%23fff'%3E %3Cg id='s18'%3E %3Cg id='s9'%3E %3Cg id='s5'%3E %3Cg id='s4'%3E %3Cpath id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/%3E %3Cuse xlink:href='%23s' y='420'/%3E %3Cuse xlink:href='%23s' y='840'/%3E %3Cuse xlink:href='%23s' y='1260'/%3E %3C/g%3E %3Cuse xlink:href='%23s' y='1680'/%3E %3C/g%3E %3Cuse xlink:href='%23s4' x='247' y='210'/%3E %3C/g%3E %3Cuse xlink:href='%23s9' x='494'/%3E %3C/g%3E %3Cuse xlink:href='%23s18' x='988'/%3E %3Cuse xlink:href='%23s9' x='1976'/%3E %3Cuse xlink:href='%23s5' x='2470'/%3E %3C/g%3E %3C/svg%3E\">"
+        "country": "us",
     }
 ]

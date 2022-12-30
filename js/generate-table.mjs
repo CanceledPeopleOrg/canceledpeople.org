@@ -28,11 +28,18 @@ for (const cancelation of cancelations) {
   const tr = document.createElement('tr');
   for (const [property, value] of Object.entries(cancelation)) {
     const td = document.createElement('td');
-    // TODO: Instead of unconditionally setting `innerHTML` here, we should
-    // refine the database to store country codes, and use
-    // https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/<country>.svg
-    // to populate the flags!
     td.innerHTML = value;
+
+    // We're using country codes instead of raw HTML
+    if (property == 'country' && value.length == 2) {
+      const img = document.createElement('img');
+      img.height = '16';
+      img.loading = 'lazy';
+      img.src = `https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/${value}.svg`;
+      td.innerHTML = '';
+      td.append(img);
+    }
+
     td.className = 'mdl-data-table__cell--non-numeric';
     if (property == 'description') {
       td.classList.add('wide');
