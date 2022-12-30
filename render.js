@@ -12,5 +12,6 @@ function renderFile(fileName) {
 
 renderFile("index.ejs")
 renderFile("about/index.ejs")
+renderFile("cancelations/index.ejs")
 renderFile("cancellations/index.ejs")
 renderFile("submissions/index.ejs")
