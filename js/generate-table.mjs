@@ -30,12 +30,14 @@ for (const cancelation of cancelations) {
     const td = document.createElement('td');
     td.innerHTML = value;
 
-    // We're using country codes instead of raw HTML
-    if (property == 'country' && value.length == 2) {
+    // Get an SVG image of the country's flag, given the country code.
+    if (property == 'country') {
       const img = document.createElement('img');
       img.height = '16';
       img.loading = 'lazy';
-      img.src = `https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/${value}.svg`;
+      img.src =
+          `https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/${value}.svg`;
+      img.alt = value;
       td.innerHTML = '';
       td.append(img);
     }
