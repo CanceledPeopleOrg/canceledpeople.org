@@ -1,0 +1,41 @@
+<%- include('header.ejs') -%>
+
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header has-tabs is-upgraded" data-upgraded=",MaterialLayout">
+  <main id=main class="mdl-layout__content">
+    <section class="section--center mdl-grid mdl-grid--no-spacing" style="background: transparent; max-width: 600px;">
+      <h3><b>You can be canceled for</b></h3>
+      <h5 style="color: #8c8c8c"><b id=space></b></h5>
+
+      <div id="body-navigation" style="margin-top: 100px;">
+        <a style="color:white" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" href='/cancellations'>View database</a>
+      </div>
+    </section>
+  </main>
+</div>
+
+<script>
+const typewriter = new Typewriter(space, {
+    loop: true,
+    delay: 60,
+});
+
+const reasons = [
+  "liking the wrong tweet.",
+  "something your spouse said.",
+  "criticizing Black Lives Matter.",
+  "saying your country isn't racist.",
+  "citing a scientific study.",
+  "promoting peaceful protests.",
+  "researching gender dysphoria.",
+  "criticizing the President.",
+];
+
+for (reason of reasons) {
+  typewriter.typeString(reason).pauseFor(600).deleteAll().pauseFor(400);
+}
+typewriter.start();
+</script>
+
+<div style="height: 400px;"></div>
+
+<%- include('footer.ejs') -%>
