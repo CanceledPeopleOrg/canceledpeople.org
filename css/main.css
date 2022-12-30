@@ -47,7 +47,7 @@ th {
   line-height: 1.5rem !important;
 }
 
-tr, td {
+tr, td, th {
   border-bottom: 1px solid rgba(81, 81, 81, 1) !important;
 }
 
