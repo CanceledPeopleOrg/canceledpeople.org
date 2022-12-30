@@ -70,7 +70,7 @@ nav > a {
 
 /* Styles specific to the about page */
 section#about {
-  padding: 16px 50px;
+  padding: 16px 100px;
   box-sizing: border-box;
 }
 section#about > :is(p, ol) {
