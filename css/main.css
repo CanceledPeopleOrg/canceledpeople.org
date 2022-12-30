@@ -1,7 +1,16 @@
+/*
+ * Note that this CSS is pretty terrible! Much of it overrides MDL styles in a
+ * probably non-idiomatic way. Contributions welcome.
+*/
+
 body {
   background: #303030;
   color: white;
   letter-spacing: 0.01000em;
+}
+
+main {
+  overflow-x: scroll !important;
 }
 
 h2 {
@@ -26,6 +35,7 @@ section.mdl-grid {
   background: #424242;
   max-width: 1200px;
   margin: 10px auto;
+  /* To allow the section to be centered */
   display: block !important;
 }
 
