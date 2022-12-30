@@ -1,45 +1,70 @@
 <!DOCTYPE html>
 <head>
   <title>Canceled People</title>
+  <meta charset="UTF-8">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.grey-orange.min.css">
   <link rel="stylesheet" href="css/main.css">
   <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+  <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 </head>
 
 <header class="mdl-layout__header mdl-layout__header--transparent">
   <div class="mdl-layout__header-row">
     <nav>
-      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Database</button>
-      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Submissions</button>
-      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">About</button>
+      <a href=/ class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Home</a>
+      <a href=cancellations.html class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Database</a>
+      <a href=submissions.html class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Submissions</a>
+      <a href=about.html class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">About</a>
     </nav>
   </div>
 </header>
 
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header has-tabs is-upgraded" data-upgraded=",MaterialLayout">
   <main id=main class="mdl-layout__content">
-    <h2>Database</h2>
-    <section id=section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp"></section>
+    <section class="section--center mdl-grid mdl-grid--no-spacing" style="background: transparent; max-width: 600px;">
+      <h3><b>You can be canceled for</b></h3>
+      <h5 style="color: #8c8c8c"><b id=space></b></h5>
+
+      <div id="body-navigation" style="margin-top: 100px;">
+        <a style="color:white" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" href='/cancellations.html'>View database</a>
+      </div>
+    </section>
   </main>
 </div>
 
-<!-- The copy link toast is defined before the JavaScript below, since the
-JavaScript below references the toast. -->
-<div id="copy-link-toast" class="mdl-js-snackbar mdl-snackbar">
-  <div class="mdl-snackbar__text"></div>
-  <!-- This must exist, even though it is not used -->
-  <button class="mdl-snackbar__action" type="button"></button>
-</div>
+<script>
+const typewriter = new Typewriter(space, {
+    loop: true,
+    delay: 60,
+});
 
-<script type=module src=js/generate-table.mjs></script>
+const reasons = [
+  "liking the wrong tweet.",
+  "something your spouse said.",
+  "criticizing Black Lives Matter.",
+  "saying your country isn't racist.",
+  "citing a scientific study.",
+  "promoting peaceful protests.",
+  "researching gender dysphoria.",
+  "criticizing the President.",
+];
+
+for (reason of reasons) {
+  typewriter.typeString(reason).pauseFor(600).deleteAll().pauseFor(400);
+}
+typewriter.start();
+</script>
+
+<div style="height: 400px;"></div>
 
 <footer class="mdl-mini-footer">
   <div class="mdl-mini-footer__left-section">
-    <div class="mdl-logo">Database</div>
     <ul class="mdl-mini-footer__link-list">
+      <li><a href="cancellations.html">Database</a></li>
       <li><a href="submissions.html">Submissions</a></li>
       <li><a href="about.html">About</a></li>
+      <li><a href="https://github.com/CanceledPeopleOrg/canceledpeople.org">GitHub ❤️</a></li>
     </ul>
   </div>
 </footer>

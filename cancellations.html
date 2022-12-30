@@ -21,15 +21,26 @@
 
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header has-tabs is-upgraded" data-upgraded=",MaterialLayout">
   <main id=main class="mdl-layout__content">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScG6lonOhr5on6TsZuEK13qOY5CCD0OAQvz_sBPPcdYYgSLmQ/viewform?embedded=true" width="640" height="812" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <h2>Database</h2>
+    <section id=section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp"></section>
   </main>
 </div>
 
+<!-- The copy link toast is defined before the JavaScript below, since the
+JavaScript below references the toast. -->
+<div id="copy-link-toast" class="mdl-js-snackbar mdl-snackbar">
+  <div class="mdl-snackbar__text"></div>
+  <!-- This must exist, even though it is not used -->
+  <button class="mdl-snackbar__action" type="button"></button>
+</div>
+
+<script type=module src=js/generate-table.mjs></script>
+
 <footer class="mdl-mini-footer">
   <div class="mdl-mini-footer__left-section">
-    <div class="mdl-logo">Submissions</div>
+    <div class="mdl-logo">Database</div>
     <ul class="mdl-mini-footer__link-list">
-      <li><a href="cancellations.html">Database</a></li>
+      <li><a href="submissions.html">Submissions</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="https://github.com/CanceledPeopleOrg/canceledpeople.org">GitHub ❤️</a></li>
     </ul>

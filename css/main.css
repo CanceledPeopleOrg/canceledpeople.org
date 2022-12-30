@@ -61,7 +61,7 @@ nav {
   margin: 0 auto;
 }
 
-nav > button {
+nav > a {
   color: white !important;
   background-color: black !important;
 }
