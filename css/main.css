@@ -1,0 +1,79 @@
+body {
+  background: #303030;
+  color: white;
+  letter-spacing: 0.01000em;
+}
+
+h2 {
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+table {
+  font-size: 14px !important;
+  white-space: normal !important;
+  line-height: 20px;
+  font-weight: 400;
+}
+td {
+  max-width: 350px;
+  min-width: 50px
+  word-break: break-word !important;
+  padding: 16px !important;
+}
+
+section.mdl-grid {
+  background: #424242;
+  max-width: 1200px;
+  margin: 10px auto;
+  display: block !important;
+}
+
+th {
+  color: white !important;
+  text-align: left !important;
+  font-size: 1.5em !important;
+  padding: 16px !important;
+  line-height: 1.5rem !important;
+}
+
+tr, td {
+  border-bottom: 1px solid rgba(81, 81, 81, 1) !important;
+}
+
+tr:hover {
+  background-color: transparent !important;
+}
+
+td.wide {
+  width: 350px;
+}
+
+.mdl-data-table {
+  background-color: transparent;
+}
+
+header {
+  background-color: black !important;
+}
+
+nav {
+  margin: 0 auto;
+}
+
+nav > button {
+  color: white !important;
+  background-color: black !important;
+}
+
+
+
+/* Styles specific to the about page */
+section#about {
+  padding: 16px 50px;
+  box-sizing: border-box;
+}
+section#about > :is(p, ol) {
+  font-size: 16px !important;
+  line-height: 1.5;
+}
