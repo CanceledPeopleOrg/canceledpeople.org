@@ -21,14 +21,30 @@
   <header class="mdl-layout__header mdl-layout__header--transparent">
     <div class="mdl-layout__header-row">
       <nav>
-        <a href=/ class="mdl-button mdl-button--raised mdl-js-ripple-effect">Home</a>
-        <a href=/cancellations/ class="mdl-button mdl-button--raised mdl-js-ripple-effect">Database</a>
-        <a href=/submissions/ class="mdl-button mdl-button--raised mdl-js-ripple-effect">Submissions</a>
-        <a href=/about/ class="mdl-button mdl-button--raised mdl-js-ripple-effect">About</a>
+        <a href=/ class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Home</a>
+        <a href=/cancellations/ class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Database</a>
+        <a href=/submissions/ class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Submissions</a>
+        <a href=/about/ class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">About</a>
       </nav>
     </div>
   </header>
 </div>
+
+<script>
+// OK this is kind of a hack. For some reason `mdl-js-button` clicks aren't
+// working well on mobile, and this "fixes" that, albeit with a heavy hand.
+function handleClick(e) {
+  if (e.target.parentNode.href)
+    location.href = e.target.parentNode.href;
+}
+window.onload = e => {
+  const buttons = Array.from(document.querySelectorAll('a.mdl-js-button'));
+  for (const button of buttons) {
+    button.addEventListener('click', handleClick, {capture: true});
+    button.addEventListener('touchend', handleClick, {capture: true});
+  }
+}
+</script>
 
 <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 
@@ -39,7 +55,7 @@
       <h5 style="color: #8c8c8c"><b id=space></b></h5>
 
       <div id="body-navigation" style="margin-top: 100px;">
-        <button style="color:white" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" href='/cancellations/' onclick="location.href = '/cancellations/'">View database</button>
+        <a href="/cancellations/" style="color:white" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">View database</a>
       </div>
     </section>
   </main>
