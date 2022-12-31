@@ -83,6 +83,11 @@ section#about {
   padding: 16px 100px;
   box-sizing: border-box;
 }
+@media (max-width: 700px) {
+  section#about {
+    padding: 16px 10px;
+  }
+}
 section#about > :is(p, ol) {
   font-size: 16px !important;
   line-height: 1.5;
