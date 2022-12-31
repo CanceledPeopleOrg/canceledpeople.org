@@ -34,7 +34,8 @@ for (const cancelation of cancelations) {
       const button = document.createElement('button');
       button.className = 'mdl-button mdl-js-button mdl-button--fab mdl-button--mini-fab mdl-js-ripple-effect';
       td.id = `row-${value}`;
-      button.addEventListener('click', copyLink);
+      button.addEventListener('click', copyLink, {capture: true});
+      button.addEventListener('touchend', copyLink, {capture: true});
       const i = button.appendChild(document.createElement('i'));
       i.className = 'material-icons';
       i.textContent = 'link';
@@ -75,6 +76,9 @@ function copyLink(e) {
   navigator.clipboard.writeText(url);
 
   const toast = document.querySelector('#copy-link-toast');
-  const data = {message: 'Link copied to clipboard'};
+  const data = {
+    message: 'Link copied to clipboard',
+    timeout: 1000
+  };
   toast.MaterialSnackbar.showSnackbar(data);
 }
