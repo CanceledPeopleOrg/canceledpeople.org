@@ -51,7 +51,7 @@ export default [
     },
     {
         "number": "6",
-        "person": "Howard Buachner",
+        "person": "Howard Bauchner",
         "institution": "Journal of American Medicine (JAMA)",
         "position": "Executive Editor",
         "description": "During a podcast episode produced on the JAMA Network, deputy editor Ed Livingston said that structural racism is not a problem in medicine. The remarks resulted in backlash, with a group of doctors initiating a petition asking for Bauchner to be held accountable. Bauchner was put on leave pending the results of an investigation.&nbsp;<a href=\"https://thehill.com/homenews/media/545110-top-medical-journal-editor-suspended-over-podcast-on-racism-in-health-care\" id=\"sourceLink\">Source</a>",
