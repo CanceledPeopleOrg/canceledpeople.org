@@ -26,8 +26,16 @@ const tbody = table.appendChild(document.createElement('tbody'));
 
 for (const cancelation of cancelations) {
   const tr = document.createElement('tr');
+
+  // For (almost each property of the cancelation, build a `<td>` for the row.
   for (const [property, value] of Object.entries(cancelation)) {
+    // For our table, the `source` is only relevant to the `description`, so we
+    // don't built a separate `<td>` for it.
+    if (property == 'source')
+      continue;
+
     const td = document.createElement('td');
+    td.className = 'mdl-data-table__cell--non-numeric';
     td.innerHTML = value;
 
     if (property == 'number') {
@@ -52,13 +60,18 @@ for (const cancelation of cancelations) {
       img.src =
           `https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/${value}.svg`;
       img.alt = value;
+      img.title = value;
+
       td.innerHTML = '';
       td.append(img);
     }
 
-    td.className = 'mdl-data-table__cell--non-numeric';
     if (property == 'description') {
       td.classList.add('wide');
+      // The `source` is stored separately from the `description`. Since we're
+      // processing the `description` `<td>` here, we'll just pull the `source`
+      // out manually.
+      td.innerHTML = `${value}<a href=${cancelation.source}>Source</a>`;
     }
     tr.append(td);
   }
