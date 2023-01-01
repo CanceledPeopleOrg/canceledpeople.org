@@ -2385,5 +2385,16 @@ export default [
         "result": "Fired",
         "date": "6/20",
         "country": "us",
+    },
+    {
+        "number": "218",
+        "person": "John Kluge",
+        "institution": "Brownsburg High School",
+        "position": "Music teacher",
+        "description": "Kluge referred to his students by last name, sidestepping a school requirement to call transgender students by their preferred name. The school originally permitted this, but rescinded the accommodation, telling Kluge to comply, resign, or be terminated. Kluge submitted a conditional resignation which he withdrew, but officials had started processing it and refused to stop.&nbsp;",
+        "source": "https://news.bloomberglaw.com/litigation/doj-says-christian-teacher-must-use-students-preferred-pronouns",
+        "result": "Forced Resignation",
+        "date": "6/18",
+        "country": "us",
     }
 ]
