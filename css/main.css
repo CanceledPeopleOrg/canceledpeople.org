@@ -30,6 +30,12 @@ td {
   word-break: break-word !important;
   padding: 16px !important;
 }
+td > p {
+  /* Override some default MDL styles. */
+  margin: 0;
+  line-height: inherit;
+  letter-spacing: inherit;
+}
 
 section.mdl-grid {
   background: #424242;
@@ -91,4 +97,92 @@ section#about {
 section#about > :is(p, ol) {
   font-size: 16px !important;
   line-height: 1.5;
+}
+
+/* See https://css-tricks.com/responsive-data-tables/ */
+@media
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+  /* Force table to not be like a table anymore */
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  tr {
+    border-bottom: 3px solid #b5b5b5 !important;
+  }
+
+  td {
+    /* Behave like a mini "row" */
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    /* On mobile, give each "sub-row" a smaller padding */
+    padding: 10px !important;
+
+    /* Normally, our `td`s have a max-width of 350px since they're stuffed in a
+       single row. Now since they effectively *are* the rows, we relax that. */
+    max-width: 100%;
+    height: auto !important;
+  }
+
+  /* Relax the normally-wide limit, that is too tight for mobile. */
+  td.wide {
+    width: auto;
+  }
+
+  /* Inside each `td`, we want the text to only take up a certain percentage of
+     the width, and also be justified to the right. We achieve this by
+     manipulating the specific `<p>` inside. */
+  td > p {
+    display: inline-block;
+    max-width: 70%;
+  }
+
+  td:before {
+    /* These are now effectively table headers. */
+    position: absolute;
+    /* Top/left values mimic padding */
+    left: 10px;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .mdl-data-table tbody tr {
+    /* In MDL, all table rows have a height of 48px which we need to override. */
+    height: auto;
+  }
+
+  /* On mobile, all non-pseudo-text is justified to the right, to stand opposing
+     the pseudo-text row labels. */
+  .mdl-data-table__cell--non-numeric.mdl-data-table__cell--non-numeric {
+    text-align: right;
+  }
+
+  /* Except for the description column, since it is much easier to read a
+     paragraph that is left-justified */
+  td.wide > p {
+    text-align: left;
+  }
+
+  /* KEEP THIS SYNCHRONIZED WITH `headers` IN `generate-table.mjs` */
+  td:nth-of-type(1):before { content: "Link"; }
+  td:nth-of-type(2):before { content: "Name"; }
+  td:nth-of-type(3):before { content: "Organization"; }
+  td:nth-of-type(4):before { content: "Position"; }
+  td:nth-of-type(5):before { content: "Offense"; }
+  td:nth-of-type(6):before { content: "Result"; }
+  td:nth-of-type(7):before { content: "Date"; }
+  td:nth-of-type(8):before { content: "Country"; }
+
+  .mdl-layout__header-row {
+    padding: 0;
+  }
 }

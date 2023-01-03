@@ -1,4 +1,6 @@
 import cancelations from './database.js';
+
+// Keep this synchronized with the responsive data table labels in `main.css`.
 const headers = [
   /*id=*/"",
   "Name",
@@ -36,7 +38,7 @@ for (const cancelation of cancelations) {
 
     const td = document.createElement('td');
     td.className = 'mdl-data-table__cell--non-numeric';
-    td.innerHTML = value;
+    td.innerHTML = `<p>${value}</p>`;
 
     if (property == 'number') {
       const button = document.createElement('button');
@@ -71,7 +73,7 @@ for (const cancelation of cancelations) {
       // The `source` is stored separately from the `description`. Since we're
       // processing the `description` `<td>` here, we'll just pull the `source`
       // out manually.
-      td.innerHTML = `${value}<a href=${cancelation.source}>Source</a>`;
+      td.innerHTML = `<p>${value}<a href=${cancelation.source}>Source</a></p>`;
     }
     tr.append(td);
   }
