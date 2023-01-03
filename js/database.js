@@ -2407,5 +2407,16 @@ export default [
         "result": "Fired",
         "date": "08/20",
         "country": "ca",
+    },
+    {
+        "number": "220",
+        "person": "Tony Blevins",
+        "institution": "Apple",
+        "position": "VP of Procurement",
+        "description": "Blevins was fired for quoting a line from the 1981 film <i>Arthur</i> at a car show. After pulling in and being asked what he does for a living, Blevins jokingly responded \"I race cars, play golf and fondle big-breasted women. But I take weekends and major holidays off.\"&nbsp;",
+        "source": "https://www.wsj.com/articles/former-apple-executive-says-company-blundered-by-firing-him-after-tiktok-video-11670553178",
+        "result": "Fired",
+        "date": "09/22",
+        "country": "us",
     }
 ]
