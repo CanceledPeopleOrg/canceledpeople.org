@@ -2418,5 +2418,16 @@ export default [
         "result": "Fired",
         "date": "09/22",
         "country": "us",
+    },
+    {
+        "number": "221",
+        "person": "Jeremy Kappell",
+        "institution": "WHEC News",
+        "position": "Chief Meteorologist",
+        "description": "When reporting on the weather in Martin Luther King Jr. Park, Kappell spoke too fast, stumbling over the name appearing to say \"Martin Luther coon King Jr. Park.\" Kappell maintains that his flub was an honest mistake, but was fired.&nbsp;",
+        "source": "https://www.washingtonpost.com/weather/2019/01/08/meteorologist-fired-using-racist-slur-martin-luther-king-jr-says-it-was-an-accident/",
+        "result": "Fired",
+        "date": "01/21",
+        "country": "us",
     }
 ]
