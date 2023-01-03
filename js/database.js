@@ -2396,5 +2396,16 @@ export default [
         "result": "Forced Resignation",
         "date": "6/18",
         "country": "us",
+    },
+    {
+        "number": "219",
+        "person": "Rav Arora",
+        "institution": "Unknown",
+        "position": "Content creator",
+        "description": "Arora was fired as a remote content creator because his personal essay on white privilege could make his company look \"anti-black\" and \"pro-police\". Correlating \"policing with saving black lives\" was deemed offensive.&nbsp;",
+        "source": "https://nypost.com/2021/09/04/what-its-really-like-to-be-a-cancel-culture-victim/",
+        "result": "Fired",
+        "date": "08/20",
+        "country": "ca",
     }
 ]
