@@ -2427,7 +2427,7 @@ export default [
         "description": "When reporting on the weather in Martin Luther King Jr. Park, Kappell spoke too fast, stumbling over the name appearing to say \"Martin Luther coon King Jr. Park.\" Kappell maintains that his flub was an honest mistake, but was fired.&nbsp;",
         "source": "https://www.washingtonpost.com/weather/2019/01/08/meteorologist-fired-using-racist-slur-martin-luther-king-jr-says-it-was-an-accident/",
         "result": "Fired",
-        "date": "01/21",
+        "date": "01/19",
         "country": "us",
     }
 ]
