@@ -51,7 +51,8 @@ for (const cancelation of cancelations) {
       i.textContent = 'link';
 
       td.innerHTML = '';
-      td.append(button);
+      const p = td.appendChild(document.createElement('p'));
+      p.append(button);
     }
 
     // Get an SVG image of the country's flag, given the country code.
@@ -65,7 +66,8 @@ for (const cancelation of cancelations) {
       img.title = value;
 
       td.innerHTML = '';
-      td.append(img);
+      const p = td.appendChild(document.createElement('p'));
+      p.append(img);
     }
 
     if (property == 'description') {
@@ -87,7 +89,7 @@ function copyLink(e) {
   const url = new URL(location.href);
   // `e.target` is the inner <span>. We have to climb up to the <button> and
   // finally the <td> to get the right navigable ID.
-  url.hash = `#${e.target.parentNode.parentNode.id}`;
+  url.hash = `#${e.target.parentNode.parentNode.parentNode.id}`;
   navigator.clipboard.writeText(url);
 
   const toast = document.querySelector('#copy-link-toast');

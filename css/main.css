@@ -143,7 +143,8 @@ only screen and (max-width: 760px),
      manipulating the specific `<p>` inside. */
   td > p {
     display: inline-block;
-    max-width: 70%;
+    width: 70%;
+    text-align: left;
   }
 
   td:before {
@@ -166,10 +167,8 @@ only screen and (max-width: 760px),
     text-align: right;
   }
 
-  /* Except for the description column, since it is much easier to read a
-     paragraph that is left-justified */
-  td.wide > p {
-    text-align: left;
+  .material-icons {
+    color: white;
   }
 
   /* KEEP THIS SYNCHRONIZED WITH `headers` IN `generate-table.mjs` */
