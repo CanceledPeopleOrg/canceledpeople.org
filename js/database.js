@@ -2429,5 +2429,16 @@ export default [
         "result": "Fired",
         "date": "01/19",
         "country": "us",
+    },
+    {
+        "number": "222",
+        "person": "Alex Berenson",
+        "institution": "N/A",
+        "position": "Writer",
+        "description": "Of the COVID-19 vaccine, Berenson tweeted \"It doesn’t stop infection. Or transmission. Don’t think of it as a vaccine.\" He received a permanent Twitter ban after the Biden administration applied pressure to Twitter executives, but in a lawsuit, Twitter settled and reinstated his account.&nbsp;",
+        "source": "https://www.wsj.com/articles/biden-and-twitter-censorship-alex-berenson-covid-vaccines-white-house-social-media-11660335186",
+        "result": "Permanent Twitter Ban",
+        "date": "08/21",
+        "country": "us",
     }
 ]
