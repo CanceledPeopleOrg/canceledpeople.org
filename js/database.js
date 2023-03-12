@@ -2440,5 +2440,16 @@ export default [
         "result": "Permanent Twitter Ban",
         "date": "08/21",
         "country": "us",
+    },
+    {
+        "number": "223",
+        "person": "Rob Blair",
+        "institution": "KTNV-TV",
+        "position": "Weatherman",
+        "description": "When reporting on the weather in Las Vegas on Martin Luther King Jr. Day, Blair spoke too quickly, saying \"Martin Luther Coon King Jr. Day.\" Blair maintains that his stumbling was an \"accidental slip of the tongue,\" but was fired from the network.&nbsp;",
+        "source": "https://www.foxnews.com/story/weatherman-fired-for-on-air-mlk-slur",
+        "result": "Fired",
+        "date": "01/05",
+        "country": "us",
     }
 ]
