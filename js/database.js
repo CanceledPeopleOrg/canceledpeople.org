@@ -2451,5 +2451,16 @@ export default [
         "result": "Fired",
         "date": "01/05",
         "country": "us",
-    }
+    },
+    {
+        "number": "224",
+        "person": "Charles Negy",
+        "institution": "University of Central Florida",
+        "position": "Professor",
+        "description": "In the summer of 2020, Negy tweeted that black privilege was real. UCF told students that Negy would be \"dealt with,\" and because his tweets were protected speech, launched an investigation vaguely alluding to his in-class speech. He was fired thereafter, with almost no due process. Five months later a labor dispute arbitrator ordered UCF to reinstate Negy with tenure after finding they did not have \"just cause\" for his termination.&nbsp;",
+        "source": "https://www.thefire.org/news/tale-two-pretexts-sham-investigations-silence-professors-central-florida-and-princeton",
+        "result": "Fired, then reinstated",
+        "date": "01/21",
+        "country": "us",
+    },
 ]
