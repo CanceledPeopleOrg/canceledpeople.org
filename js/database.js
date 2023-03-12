@@ -2463,4 +2463,15 @@ export default [
         "date": "01/21",
         "country": "us",
     },
+    {
+        "number": "225",
+        "person": "Joshua Katz",
+        "institution": "Princeton University",
+        "position": "Professor",
+        "description": "In the summer of 2020, Katz published an essay on Quillette denouncing a few \"anti-racist\" demands made in a faculty letter sent by campus organizers, in which he hyperbolically referred to Princeton's \"Black Justice League\" as a \"small local terrorist organization.\" After an investigation, Katz was supposedly fired for an unrelated incident in 2018 for which he had already been disciplined at the time.&nbsp;",
+        "source": "https://www.thefire.org/news/tale-two-pretexts-sham-investigations-silence-professors-central-florida-and-princeton",
+        "result": "Fired",
+        "date": "05/22",
+        "country": "us",
+    },
 ]
