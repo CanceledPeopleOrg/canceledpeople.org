@@ -13,9 +13,13 @@ main {
   overflow-x: scroll !important;
 }
 
-h2 {
+h2, main > p {
   max-width: 1200px;
   margin: 20px auto;
+}
+
+p#last-updated {
+  color: #c4c4c4;
 }
 
 table {

@@ -3,6 +3,7 @@
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header has-tabs is-upgraded" data-upgraded=",MaterialLayout">
   <main id=main class="mdl-layout__content">
     <h2>Database</h2>
+    <p id=last-updated>Last updated: </p>
     <section id=section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp"></section>
   </main>
 </div>
@@ -15,6 +16,13 @@ JavaScript below references the toast. -->
   <button class="mdl-snackbar__action" type="button"></button>
 </div>
 
+<script type=module>
+  // Generate the last-updated date with the user's locale.
+  const localDate = new Date(<%-date%>).toLocaleDateString();
+  const italicDate = document.createElement('i');
+  italicDate.innerText = localDate;
+  document.querySelector('#last-updated').append(italicDate);
+</script>
 <script type=module src=/js/generate-table.mjs></script>
 
 <%- include('../footer.ejs') -%>
