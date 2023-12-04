@@ -2474,4 +2474,15 @@ export default [
         "date": "05/22",
         "country": "us",
     },
+    {
+        "number": "226",
+        "person": "Chelsea Russell",
+        "institution": "N/A",
+        "position": "Social media user",
+        "description": "After posting Snoop Dogg lyrics on her Instagram account, Russell was charged with \"sending a grossly offensive\" over a public network. She was fined £580 and sentenced to 8 weeks of part-time house arrest. Her conviction was eventually overturned.&nbsp;",
+        "source": "https://www.liverpoolecho.co.uk/news/liverpool-news/woman-who-posted-rap-lyrics-14543694",
+        "result": "Fined &amp; put on house arrest",
+        "date": "04/18",
+        "country": "gb",
+    },
 ]
