@@ -65,7 +65,7 @@ JavaScript below references the toast. -->
 
 <script type=module>
   // Generate the last-updated date with the user's locale.
-  const localDate = new Date(1701657551718).toLocaleDateString();
+  const localDate = new Date(1727996266930).toLocaleDateString();
   const italicDate = document.createElement('i');
   italicDate.innerText = localDate;
   document.querySelector('#last-updated').append(italicDate);
@@ -83,3 +83,13 @@ JavaScript below references the toast. -->
     </ul>
   </div>
 </footer>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ST8RML6BNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ST8RML6BNL');
+</script>
